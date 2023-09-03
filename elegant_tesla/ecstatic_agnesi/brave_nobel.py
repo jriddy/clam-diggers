@@ -1,0 +1,1 @@
+from elegant_tesla.ecstatic_agnesi import sad_thompson as sad_thompson1

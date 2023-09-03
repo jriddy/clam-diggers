@@ -1,0 +1,5 @@
+from loving_visvesvaraya.laughing_austin import keen_goldstine as keen_goldstine1
+import reverent_fermi as reverent_fermi1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.cranky_goldwasser import festive_mclean as festive_mclean1
+import vigorous_thompson as vigorous_thompson1

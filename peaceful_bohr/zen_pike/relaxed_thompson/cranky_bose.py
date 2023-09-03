@@ -1,0 +1,7 @@
+import awesome_thompson as awesome_thompson1
+from elegant_tesla.vibrant_northcutt import sleepy_mclean as sleepy_mclean1
+from elegant_tesla.vibrant_northcutt import zen_curie as zen_curie1
+from elegant_tesla.vibrant_northcutt import naughty_williams as naughty_williams1
+from elegant_tesla.vibrant_northcutt import kind_euler as kind_euler1
+from elegant_tesla.vibrant_northcutt import vibrant_goldberg as vibrant_goldberg1
+from elegant_tesla.boring_boyd import pedantic_jennings as pedantic_jennings1

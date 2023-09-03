@@ -1,0 +1,4 @@
+from elegant_tesla.boring_boyd import relaxed_einstein as relaxed_einstein1
+from elegant_tesla.mystifying_euclid import fervent_franklin as fervent_franklin1
+from elegant_tesla.mystifying_euclid import blissful_jepsen as blissful_jepsen1
+from elegant_tesla.mystifying_euclid import dazzling_mirzakhani as dazzling_mirzakhani1

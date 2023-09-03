@@ -1,0 +1,1 @@
+from elegant_tesla.vibrant_northcutt import cocky_shannon as cocky_shannon1

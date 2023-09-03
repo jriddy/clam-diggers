@@ -1,0 +1,9 @@
+from peaceful_bohr.zen_pike import hopeful_ritchie as hopeful_ritchie1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+import amazing_cray as amazing_cray1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from peaceful_bohr import zen_curie as zen_curie1
+from elegant_tesla.zen_pike import hopeful_ritchie as hopeful_ritchie2
+import condescending_franklin as condescending_franklin1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

@@ -1,0 +1,3 @@
+from priceless_stonebraker.quizzical_hamilton.zealous_knuth import kind_fermat as kind_fermat1
+import focused_liskov as focused_liskov1
+from priceless_stonebraker.quizzical_hamilton.zealous_knuth import nifty_thompson as nifty_thompson1

@@ -1,0 +1,12 @@
+from elegant_tesla.boring_boyd import amazing_yalow as amazing_yalow1
+import relaxed_northcutt as relaxed_northcutt1
+from elegant_tesla.mystifying_euclid import fervent_franklin as fervent_franklin1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
+from elegant_tesla.boring_boyd import hungry_johnson as hungry_johnson1
+from stupefied_gates import reverent_bartik as reverent_bartik1
+from elegant_tesla.boring_boyd import relaxed_einstein as relaxed_einstein1
+import gracious_kare as gracious_kare1
+from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
+from elegant_tesla.boring_boyd import zen_pike as zen_pike1
+from elegant_tesla.mystifying_euclid import dazzling_mirzakhani as dazzling_mirzakhani1

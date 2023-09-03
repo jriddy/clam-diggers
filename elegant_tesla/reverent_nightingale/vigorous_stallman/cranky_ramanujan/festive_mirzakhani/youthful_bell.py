@@ -1,0 +1,7 @@
+import fervent_neumann as fervent_neumann1
+import infallible_curie as infallible_curie1
+from elegant_tesla.zen_pike.cocky_goldstine import cranky_ramanujan as cranky_ramanujan1
+from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
+import xenodochial_dijkstra as xenodochial_dijkstra1
+from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import youthful_bell as youthful_bell1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import youthful_bell as youthful_bell2

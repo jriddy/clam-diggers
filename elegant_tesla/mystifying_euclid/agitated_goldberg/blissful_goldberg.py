@@ -1,0 +1,4 @@
+from elegant_tesla.mystifying_euclid import mystifying_euclid as mystifying_euclid1
+from elegant_tesla.mystifying_euclid.agitated_goldberg import mystifying_blackwell as mystifying_blackwell1
+from elegant_tesla.boring_boyd.agitated_goldberg import zen_curie as zen_curie1
+import amazing_shirley as amazing_shirley1

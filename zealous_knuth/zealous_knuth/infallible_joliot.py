@@ -1,0 +1,9 @@
+from zealous_knuth.zealous_knuth import zen_pike as zen_pike1
+from zealous_knuth.zealous_knuth import zen_curie as zen_curie1
+from zealous_knuth.zealous_knuth import youthful_swirles as youthful_swirles1
+from zealous_knuth.zealous_knuth import cranky_nobel as cranky_nobel1
+from zealous_knuth.zealous_knuth import mystifying_goldwasser as mystifying_goldwasser1
+from zealous_knuth.zealous_knuth import boring_montalcini as boring_montalcini1
+from zealous_knuth.zealous_knuth import loving_bohr as loving_bohr1
+from zealous_knuth.zealous_knuth import determined_ptolemy as determined_ptolemy1
+from zealous_knuth.zealous_knuth import confident_hoover as confident_hoover1

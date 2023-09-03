@@ -1,0 +1,4 @@
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from peaceful_bohr import zen_curie as zen_curie1
+from peaceful_bohr.jovial_bell import serene_hodgkin as serene_hodgkin1
+import zen_panini as zen_panini1

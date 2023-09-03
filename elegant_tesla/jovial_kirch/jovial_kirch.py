@@ -1,0 +1,10 @@
+import amazing_shirley as amazing_shirley1
+import upbeat_beaver as upbeat_beaver1
+from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
+import cocky_pike as cocky_pike1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+from elegant_tesla.mystifying_euclid import condescending_pasteur as condescending_pasteur1
+from elegant_tesla.boring_boyd import zen_pike as zen_pike1
+from elegant_tesla.mystifying_euclid import blissful_jepsen as blissful_jepsen1
+from elegant_tesla.mystifying_euclid import dazzling_mirzakhani as dazzling_mirzakhani1
+from elegant_tesla.boring_boyd import silly_hoover as silly_hoover1

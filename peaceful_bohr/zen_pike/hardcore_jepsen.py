@@ -1,0 +1,2 @@
+from stupefied_gates import quirky_sammet as quirky_sammet1
+from elegant_tesla.cranky_goldwasser import trusting_curie as trusting_curie1

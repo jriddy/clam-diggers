@@ -1,0 +1,5 @@
+from elegant_tesla.cranky_goldwasser import quirky_bartik as quirky_bartik1
+from elegant_tesla.reverent_nightingale import serene_swanson as serene_swanson1
+from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
+from elegant_tesla.zen_pike import heuristic_babbage as heuristic_babbage1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1

@@ -1,0 +1,7 @@
+from elegant_tesla.xenodochial_aryabhata import gracious_banach as gracious_banach1
+from elegant_tesla.xenodochial_aryabhata.clever_raman import boring_dijkstra as boring_dijkstra1
+from elegant_tesla.xenodochial_aryabhata import dreamy_lamarr as dreamy_lamarr1
+from elegant_tesla.xenodochial_aryabhata import suspicious_babbage as suspicious_babbage1
+from elegant_tesla.xenodochial_aryabhata import awesome_morse as awesome_morse1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
+from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import clever_raman as clever_raman1

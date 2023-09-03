@@ -1,0 +1,8 @@
+from elegant_tesla.boring_dijkstra.agitated_goldberg import quirky_cori as quirky_cori1
+from elegant_tesla.xenodochial_aryabhata import zen_curie as zen_curie1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie2
+from elegant_tesla.boring_boyd.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1
+import zen_panini as zen_panini1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner2
+import reverent_goldwasser as reverent_goldwasser1

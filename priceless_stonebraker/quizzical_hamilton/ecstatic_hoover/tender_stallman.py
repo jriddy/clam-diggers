@@ -1,0 +1,4 @@
+import tender_rosalind as tender_rosalind1
+import gallant_yonath as gallant_yonath1
+from priceless_stonebraker.quizzical_hamilton.ecstatic_hoover import trusting_carson as trusting_carson1
+import focused_liskov as focused_liskov1

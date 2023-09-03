@@ -1,0 +1,3 @@
+from elegant_tesla.boring_dijkstra.awesome_morse import fervent_sinoussi as fervent_sinoussi1
+from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt import fervent_sinoussi as fervent_sinoussi2
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1

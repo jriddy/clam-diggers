@@ -1,0 +1,7 @@
+import reverent_fermi as reverent_fermi1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.clever_mestorf import laughing_shockley as laughing_shockley1
+from elegant_tesla.zen_pike import jolly_darwin as jolly_darwin1
+import vigorous_thompson as vigorous_thompson1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import optimistic_minsky as optimistic_minsky1

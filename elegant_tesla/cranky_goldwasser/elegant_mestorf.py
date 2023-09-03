@@ -1,0 +1,8 @@
+from elegant_tesla.cranky_goldwasser import compassionate_stallman as compassionate_stallman1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from elegant_tesla.cranky_goldwasser import distracted_meitner as distracted_meitner1
+from elegant_tesla.cranky_goldwasser import quirky_bartik as quirky_bartik1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from elegant_tesla.zen_pike.optimistic_hawking import objective_knuth as objective_knuth1

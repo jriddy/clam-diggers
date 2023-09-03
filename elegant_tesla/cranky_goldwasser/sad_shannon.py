@@ -1,0 +1,25 @@
+from elegant_tesla.zen_pike import loving_edison as loving_edison1
+from elegant_tesla.zen_pike.optimistic_hawking import eloquent_neumann as eloquent_neumann1
+from elegant_tesla.reverent_nightingale import gallant_rosalind as gallant_rosalind1
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystifying_mayer1
+from elegant_tesla.xenodochial_aryabhata import inspiring_feynman as inspiring_feynman1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.cranky_goldwasser import infallible_easley as infallible_easley1
+from elegant_tesla.cranky_goldwasser import distracted_meitner as distracted_meitner1
+from elegant_tesla.reverent_nightingale import elated_poincare as elated_poincare1
+import zen_panini as zen_panini1
+import musing_mclean as musing_mclean1
+from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import epic_hamilton as epic_hamilton1
+from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import optimistic_minsky as optimistic_minsky1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import peaceful_tesla as peaceful_tesla1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.zen_pike.awesome_morse import hungry_mahavira as hungry_mahavira1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import elegant_tesla as elegant_tesla1
+from elegant_tesla.zen_pike import naughty_borg as naughty_borg1
+from stupefied_gates import quirky_sammet as quirky_sammet1
+from elegant_tesla.boring_dijkstra import epic_hamilton as epic_hamilton2
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.cranky_goldwasser import gallant_yonath as gallant_yonath1

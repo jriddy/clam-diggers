@@ -1,0 +1,5 @@
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import zen_curie as zen_curie1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira import infallible_mirzakhani as infallible_mirzakhani1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.loving_varahamihira.kind_golick import reverent_thompson as reverent_thompson1
+from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1

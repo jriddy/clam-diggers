@@ -1,0 +1,9 @@
+from loving_visvesvaraya.laughing_austin import keen_goldstine as keen_goldstine1
+from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as eloquent_borg1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from loving_visvesvaraya.laughing_austin import friendly_bhaskara as friendly_bhaskara1
+from elegant_tesla.zen_pike import admiring_knuth as admiring_knuth1
+from loving_visvesvaraya.laughing_austin import peaceful_morse as peaceful_morse1
+from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
+import vigorous_thompson as vigorous_thompson1
+from elegant_tesla.reverent_goldwasser import eager_williams as eager_williams1

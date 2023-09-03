@@ -1,0 +1,1 @@
+from loving_visvesvaraya.stoic_borg import thirsty_wright as thirsty_wright1

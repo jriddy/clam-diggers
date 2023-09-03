@@ -1,0 +1,3 @@
+from loving_visvesvaraya.confident_hoover.relaxed_spence import dreamy_lewin as dreamy_lewin1
+from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1
+from loving_visvesvaraya.confident_hoover.relaxed_spence import zen_curie as zen_curie1

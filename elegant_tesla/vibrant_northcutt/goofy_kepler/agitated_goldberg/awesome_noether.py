@@ -1,0 +1,11 @@
+from elegant_tesla.boring_dijkstra.agitated_goldberg import hardcore_hopper as hardcore_hopper1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
+from elegant_tesla.boring_dijkstra import brave_kepler as brave_kepler1
+from elegant_tesla.vibrant_northcutt.goofy_kepler import awesome_noether as awesome_noether1
+from elegant_tesla.vibrant_northcutt import vibrant_goldberg as vibrant_goldberg1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import silly_allen as silly_allen1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import optimistic_hawking as optimistic_hawking1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import vigilant_newton as vigilant_newton1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import determined_ptolemy as determined_ptolemy1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1

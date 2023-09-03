@@ -1,0 +1,1 @@
+import awesome_thompson as awesome_thompson1

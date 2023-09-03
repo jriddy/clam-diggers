@@ -1,0 +1,13 @@
+from elegant_tesla.zen_pike.optimistic_hawking import cranky_lamport as cranky_lamport1
+from elegant_tesla.zen_pike.cocky_goldstine import cranky_ramanujan as cranky_ramanujan1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import happy_hermann as happy_hermann1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import clever_haibt as clever_haibt1
+from elegant_tesla.reverent_nightingale import sleepy_poincare as sleepy_poincare1
+from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
+from elegant_tesla.boring_boyd import mystifying_volhard as mystifying_volhard1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import mystifying_brahmagupta as mystifying_brahmagupta1
+from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta2
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import lucid_kalam as lucid_kalam1
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import zen_curie as zen_curie1

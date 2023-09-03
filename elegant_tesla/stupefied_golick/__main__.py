@@ -1,0 +1,1 @@
+from elegant_tesla.stupefied_golick import stupefied_golick as stupefied_golick1

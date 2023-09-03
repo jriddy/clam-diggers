@@ -1,0 +1,5 @@
+import tender_rosalind as tender_rosalind1
+import focused_liskov as focused_liskov1
+import gallant_yonath as gallant_yonath1
+from priceless_stonebraker.quizzical_hamilton.adoring_austin import wizardly_boyd as wizardly_boyd1
+from priceless_stonebraker.quizzical_hamilton.adoring_austin import eager_booth as eager_booth1

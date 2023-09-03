@@ -1,0 +1,6 @@
+from elegant_tesla.zen_pike.cocky_goldstine import compassionate_visvesvaraya as compassionate_visvesvaraya1
+from elegant_tesla.heuristic_babbage.youthful_bell import priceless_austin as priceless_austin1
+from elegant_tesla.zen_pike.cocky_goldstine import cranky_ramanujan as cranky_ramanujan1
+from elegant_tesla.zen_pike.cocky_goldstine import hungry_lichterman as hungry_lichterman1
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from elegant_tesla.zen_pike.cocky_goldstine import competent_brahmagupta as competent_brahmagupta1

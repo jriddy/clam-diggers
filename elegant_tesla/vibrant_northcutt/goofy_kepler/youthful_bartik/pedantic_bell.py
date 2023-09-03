@@ -1,0 +1,2 @@
+from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import cranky_pasteur as cranky_pasteur1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import clever_hoover as clever_hoover1

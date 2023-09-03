@@ -1,0 +1,11 @@
+from elegant_tesla.cranky_goldwasser import boring_edison as boring_edison1
+from stupefied_gates import distracted_haibt as distracted_haibt1
+from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as eloquent_borg1
+from elegant_tesla.zen_pike import competent_jennings as competent_jennings1
+from loving_visvesvaraya.zen_pike import upbeat_swirles as upbeat_swirles1
+from elegant_tesla.cranky_goldwasser import boring_morse as boring_morse1
+from elegant_tesla.cranky_goldwasser import hopeful_bell as hopeful_bell1
+from elegant_tesla.cranky_goldwasser.awesome_noyce import stoic_pike as stoic_pike1
+from loving_visvesvaraya.confident_hoover.boring_dijkstra import stoic_pike as stoic_pike2
+from elegant_tesla.cranky_goldwasser.awesome_noyce import wonderful_heisenberg as wonderful_heisenberg1
+from loving_visvesvaraya.confident_hoover.boring_dijkstra import lucid_shockley as lucid_shockley1

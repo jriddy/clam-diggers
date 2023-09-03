@@ -1,0 +1,1 @@
+from elegant_tesla.amazing_thompson import condescending_wescoff as condescending_wescoff1

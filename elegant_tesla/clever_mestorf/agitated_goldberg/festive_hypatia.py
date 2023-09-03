@@ -1,0 +1,14 @@
+from elegant_tesla.boring_boyd import hungry_johnson as hungry_johnson1
+from elegant_tesla.boring_boyd.agitated_goldberg import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.clever_mestorf.agitated_goldberg import quizzical_blackwell as quizzical_blackwell1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import optimistic_poitras as optimistic_poitras1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin2
+from elegant_tesla.boring_dijkstra.agitated_goldberg import quirky_cori as quirky_cori1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import suspicious_curie as suspicious_curie1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import wizardly_jepsen as wizardly_jepsen1
+from elegant_tesla.clever_mestorf.agitated_goldberg import elegant_pare as elegant_pare1
+from elegant_tesla.boring_boyd.agitated_goldberg import youthful_wescoff as youthful_wescoff1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import clever_yonath as clever_yonath1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import optimistic_hawking as optimistic_hawking1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import festive_minsky as festive_minsky1
+from elegant_tesla.boring_boyd import affectionate_pike as affectionate_pike1

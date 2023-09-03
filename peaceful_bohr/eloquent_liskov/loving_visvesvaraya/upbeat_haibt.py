@@ -1,0 +1,2 @@
+from loving_visvesvaraya import amazing_edison as amazing_edison1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1

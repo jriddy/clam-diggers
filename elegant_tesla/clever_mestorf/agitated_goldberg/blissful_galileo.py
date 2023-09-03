@@ -1,0 +1,2 @@
+from elegant_tesla.clever_mestorf.agitated_goldberg import festive_hypatia as festive_hypatia1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import quirky_cori as quirky_cori1

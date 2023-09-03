@@ -1,0 +1,6 @@
+from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.zen_pike.optimistic_hawking import eager_franklin as eager_franklin1
+from elegant_tesla.xenodochial_aryabhata.trusting_murdock import amazing_snyder as amazing_snyder1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_yonath as hungry_yonath1

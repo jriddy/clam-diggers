@@ -1,0 +1,4 @@
+from elegant_tesla.reverent_nightingale.pensive_montalcini import confident_poitras as confident_poitras1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.reverent_nightingale.vigorous_stallman import stoic_chandrasekhar as stoic_chandrasekhar1
+import vigorous_thompson as vigorous_thompson1

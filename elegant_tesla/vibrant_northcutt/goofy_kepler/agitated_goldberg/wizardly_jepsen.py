@@ -1,0 +1,11 @@
+from elegant_tesla.boring_dijkstra.agitated_goldberg import quirky_cori as quirky_cori1
+from elegant_tesla.boring_dijkstra import optimistic_poitras as optimistic_poitras1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import romantic_euclid as romantic_euclid1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import youthful_wescoff as youthful_wescoff1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import wizardly_jepsen as wizardly_jepsen1
+from elegant_tesla.boring_dijkstra import wizardly_jepsen as wizardly_jepsen2
+from elegant_tesla.boring_dijkstra.agitated_goldberg import optimistic_poitras as optimistic_poitras2
+from elegant_tesla.boring_dijkstra.agitated_goldberg import optimistic_hawking as optimistic_hawking1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import elated_leavitt as elated_leavitt1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import festive_minsky as festive_minsky1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import suspicious_meninsky as suspicious_meninsky1

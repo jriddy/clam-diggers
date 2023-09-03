@@ -1,0 +1,3 @@
+from loving_visvesvaraya.confident_hoover.relaxed_spence import quirky_minsky as quirky_minsky1
+import vigorous_thompson as vigorous_thompson1
+from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1

@@ -1,0 +1,5 @@
+from elegant_tesla.mystifying_euclid import fervent_franklin as fervent_franklin1
+from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
+import cranky_swanson as cranky_swanson1
+from elegant_tesla.boring_boyd import zen_pike as zen_pike1
+from elegant_tesla.mystifying_euclid import dazzling_mirzakhani as dazzling_mirzakhani1

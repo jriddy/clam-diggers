@@ -1,0 +1,6 @@
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import priceless_noyce as priceless_noyce1
+from elegant_tesla.pedantic_bhabha.objective_northcutt import goofy_bose as goofy_bose1
+from elegant_tesla.trusting_banach import laughing_brattain as laughing_brattain1
+from elegant_tesla.zen_pike.optimistic_hawking import trusting_banach as trusting_banach1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import zealous_varahamihira as zealous_varahamihira1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

@@ -1,0 +1,3 @@
+from elegant_tesla.zen_pike import loving_pare as loving_pare1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from peaceful_bohr.zen_pike import zealous_morse as zealous_morse1

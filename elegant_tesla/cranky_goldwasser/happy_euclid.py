@@ -1,0 +1,9 @@
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from elegant_tesla.zen_pike.festive_mclean import gifted_hermann as gifted_hermann1
+from elegant_tesla.cranky_goldwasser import boring_morse as boring_morse1
+from elegant_tesla.reverent_nightingale import boring_brattain as boring_brattain1
+from elegant_tesla.zen_pike import hardcore_morse as hardcore_morse1
+from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
+import gracious_kare as gracious_kare1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+import sad_thompson as sad_thompson1

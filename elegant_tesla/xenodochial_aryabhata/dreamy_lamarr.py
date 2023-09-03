@@ -1,0 +1,3 @@
+from elegant_tesla.xenodochial_aryabhata import awesome_morse as awesome_morse1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import tender_ptolemy as tender_ptolemy1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1

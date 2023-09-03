@@ -1,0 +1,2 @@
+from stupefied_gates import frosty_curran as frosty_curran1
+from stupefied_gates import stoic_jackson as stoic_jackson1

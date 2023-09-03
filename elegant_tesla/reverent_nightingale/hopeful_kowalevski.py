@@ -1,0 +1,2 @@
+from elegant_tesla.reverent_nightingale.nervous_ride import nervous_noyce as nervous_noyce1
+from elegant_tesla.boring_dijkstra import hungry_poitras as hungry_poitras1

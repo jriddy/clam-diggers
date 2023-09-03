@@ -1,0 +1,4 @@
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.zen_pike.cranky_tesla import mystifying_volhard as mystifying_volhard1
+from elegant_tesla.zen_pike.cranky_tesla import gifted_yonath as gifted_yonath1

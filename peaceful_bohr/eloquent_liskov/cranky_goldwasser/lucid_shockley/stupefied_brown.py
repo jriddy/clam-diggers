@@ -1,0 +1,4 @@
+from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as eloquent_borg1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.cranky_goldwasser.lucid_shockley import eloquent_darwin as eloquent_darwin1
+from elegant_tesla.cranky_goldwasser.lucid_shockley import serene_bose as serene_bose1

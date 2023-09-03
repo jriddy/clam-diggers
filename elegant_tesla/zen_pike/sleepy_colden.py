@@ -1,0 +1,5 @@
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import zen_curie as zen_curie1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie2
+from elegant_tesla.zen_pike import competent_jennings as competent_jennings1
+from elegant_tesla.boring_boyd import mystifying_volhard as mystifying_volhard1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.relaxed_bhaskara import nervous_bardeen as nervous_bardeen1

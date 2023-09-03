@@ -1,0 +1,1 @@
+from stupefied_gates import hardcore_turing as hardcore_turing1

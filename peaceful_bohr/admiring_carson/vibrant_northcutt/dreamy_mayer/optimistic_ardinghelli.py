@@ -1,0 +1,6 @@
+from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
+from peaceful_bohr.admiring_carson.vibrant_northcutt import focused_mirzakhani as focused_mirzakhani2
+from peaceful_bohr.friendly_lalande import unruffled_hodgkin as unruffled_hodgkin1
+from peaceful_bohr import zen_curie as zen_curie1
+from peaceful_bohr.admiring_carson.vibrant_northcutt.dreamy_mayer import frosty_lamport as frosty_lamport1
+from peaceful_bohr.brave_dubinsky.practical_colden import eager_almeida as eager_almeida1

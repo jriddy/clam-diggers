@@ -1,0 +1,14 @@
+from peaceful_bohr.admiring_carson.agitated_goldberg import focused_mirzakhani as focused_mirzakhani1
+from peaceful_bohr.brave_dubinsky import agitated_goldberg as agitated_goldberg1
+from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani2
+from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import blissful_shaw as blissful_shaw1
+from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
+from elegant_tesla.boring_boyd import hungry_johnson as hungry_johnson1
+from peaceful_bohr.brave_dubinsky import silly_allen as silly_allen1
+from elegant_tesla.boring_boyd.agitated_goldberg import zen_curie as zen_curie1
+from peaceful_bohr.brave_dubinsky import elated_leavitt as elated_leavitt1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import determined_ptolemy as determined_ptolemy1
+from peaceful_bohr import zen_curie as zen_curie2
+from elegant_tesla.boring_dijkstra.agitated_goldberg import clever_yonath as clever_yonath1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import optimistic_hawking as optimistic_hawking1
+import vigorous_thompson as vigorous_thompson1

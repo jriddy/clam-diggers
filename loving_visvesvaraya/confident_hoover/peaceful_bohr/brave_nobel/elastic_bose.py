@@ -1,0 +1,4 @@
+from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1
+import vigorous_thompson as vigorous_thompson1
+from loving_visvesvaraya.confident_hoover.determined_ptolemy import jovial_yalow as jovial_yalow1
+from loving_visvesvaraya.confident_hoover.determined_ptolemy import naughty_beaver as naughty_beaver1

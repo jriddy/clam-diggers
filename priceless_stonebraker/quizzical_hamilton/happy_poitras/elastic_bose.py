@@ -1,0 +1,3 @@
+from priceless_stonebraker.quizzical_hamilton.happy_poitras import mystifying_sammet as mystifying_sammet1
+from priceless_stonebraker.quizzical_hamilton.happy_poitras import sad_edison as sad_edison1
+from priceless_stonebraker.quizzical_hamilton.happy_poitras import gracious_curie as gracious_curie1

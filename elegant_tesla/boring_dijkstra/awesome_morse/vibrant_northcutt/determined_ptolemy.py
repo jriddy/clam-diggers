@@ -1,0 +1,14 @@
+from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import suspicious_meninsky as suspicious_meninsky1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
+from elegant_tesla.boring_dijkstra.awesome_morse import mystifying_bhabha as mystifying_bhabha1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import unruffled_knuth as unruffled_knuth1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie2
+from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.elegant_bose import nifty_murdock as nifty_murdock1
+from elegant_tesla.boring_boyd import mystifying_volhard as mystifying_volhard1
+from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt.happy_wescoff import goofy_bose as goofy_bose1
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt.happy_wescoff import frosty_mcclintock as frosty_mcclintock1

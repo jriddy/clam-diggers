@@ -1,0 +1,11 @@
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.reverent_nightingale.vigorous_stallman import stoic_chandrasekhar as stoic_chandrasekhar1
+import compassionate_mcclintock as compassionate_mcclintock1
+import silly_goldwasser as silly_goldwasser1
+import priceless_albattani as priceless_albattani1
+from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.sharp_sinoussi import loving_mccarthy as loving_mccarthy1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+import reverent_fermi as reverent_fermi1
+import wizardly_hodgkin as wizardly_hodgkin1
+from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import dazzling_shaw as dazzling_shaw1
+from peaceful_bohr import zen_curie as zen_curie1

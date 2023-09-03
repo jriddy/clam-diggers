@@ -1,0 +1,2 @@
+from elegant_tesla.reverent_goldwasser.frosty_jackson.goofy_archimedes import wizardly_payne as wizardly_payne1
+from elegant_tesla.reverent_goldwasser.frosty_jackson import infallible_thompson as infallible_thompson1

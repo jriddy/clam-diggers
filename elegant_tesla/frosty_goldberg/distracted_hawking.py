@@ -1,0 +1,9 @@
+from elegant_tesla.youthful_booth import gracious_mestorf as gracious_mestorf1
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from elegant_tesla.boring_dijkstra import distracted_hawking as distracted_hawking1
+from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
+from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
+from elegant_tesla.zen_pike.optimistic_hawking import keen_wing as keen_wing1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.boring_boyd import zen_pike as zen_pike1

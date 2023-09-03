@@ -1,0 +1,7 @@
+from elegant_tesla.frosty_goldberg import goofy_mestorf as goofy_mestorf1
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.laughing_feynman import hopeful_feynman as hopeful_feynman1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import friendly_panini as friendly_panini1
+from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1

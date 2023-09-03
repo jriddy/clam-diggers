@@ -1,0 +1,3 @@
+import reverent_fermi as reverent_fermi1
+from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1
+from loving_visvesvaraya.confident_hoover.brave_nobel import zen_mahavira as zen_mahavira1

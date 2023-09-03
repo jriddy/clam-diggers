@@ -1,0 +1,14 @@
+import fervent_neumann as fervent_neumann1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import youthful_bartik as youthful_bartik1
+import gracious_kare as gracious_kare1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import clever_hoover as clever_hoover1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import youthful_bartik as youthful_bartik2
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import priceless_minsky as priceless_minsky1
+from elegant_tesla.quirky_swirles import inspiring_franklin as inspiring_franklin1
+from elegant_tesla.quirky_swirles import boring_dijkstra as boring_dijkstra1
+from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
+from elegant_tesla.vibrant_northcutt.goofy_kepler import jolly_shannon as jolly_shannon1
+from elegant_tesla.vibrant_northcutt import festive_hodgkin as festive_hodgkin1

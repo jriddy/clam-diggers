@@ -1,0 +1,2 @@
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra.mystifying_volhard import mystifying_euclid as mystifying_euclid1

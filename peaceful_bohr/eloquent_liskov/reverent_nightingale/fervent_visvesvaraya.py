@@ -1,0 +1,7 @@
+from elegant_tesla.reverent_nightingale import wonderful_wilson as wonderful_wilson1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import agitated_hoover as agitated_hoover1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.reverent_nightingale.pensive_montalcini.distracted_meninsky import practical_hypatia as practical_hypatia1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import infallible_aryabhata as infallible_aryabhata1

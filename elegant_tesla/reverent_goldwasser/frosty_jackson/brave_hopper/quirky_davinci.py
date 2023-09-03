@@ -1,0 +1,6 @@
+from elegant_tesla.boring_boyd import amazing_yalow as amazing_yalow1
+from elegant_tesla.zen_pike import ecstatic_goldberg as ecstatic_goldberg1
+from elegant_tesla.reverent_goldwasser.frosty_jackson.brave_hopper import wizardly_payne as wizardly_payne1
+from elegant_tesla.reverent_goldwasser.frosty_jackson import frosty_visvesvaraya as frosty_visvesvaraya1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

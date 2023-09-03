@@ -1,0 +1,8 @@
+from modest_stonebraker.hopeful_carson import clever_brown as clever_brown1
+from modest_stonebraker.hopeful_carson import boring_poitras as boring_poitras1
+from modest_stonebraker.hopeful_carson import eager_chandrasekhar as eager_chandrasekhar1
+from stupefied_gates import frosty_curran as frosty_curran1
+from modest_stonebraker.hopeful_carson import sharp_meitner as sharp_meitner1
+from elegant_tesla.heuristic_babbage.hopeful_carson import stupefied_ride as stupefied_ride1
+from modest_stonebraker.hopeful_carson import lucid_heyrovsky as lucid_heyrovsky1
+from modest_stonebraker.hopeful_carson import ecstatic_engelbart as ecstatic_engelbart1

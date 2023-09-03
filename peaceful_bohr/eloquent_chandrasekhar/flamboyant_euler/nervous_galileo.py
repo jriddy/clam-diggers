@@ -1,0 +1,13 @@
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from elegant_tesla.zen_pike.optimistic_hawking import lucid_shockley as lucid_shockley1
+from peaceful_bohr.friendly_lalande import heuristic_lalande as heuristic_lalande1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import lucid_shockley as lucid_shockley2
+import gracious_kare as gracious_kare1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from peaceful_bohr.friendly_lalande import zealous_yalow as zealous_yalow1
+from elegant_tesla.boring_boyd import suspicious_meitner as suspicious_meitner1
+from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from peaceful_bohr.eloquent_chandrasekhar import focused_mirzakhani as focused_mirzakhani1
+from peaceful_bohr import objective_kalam as objective_kalam1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1

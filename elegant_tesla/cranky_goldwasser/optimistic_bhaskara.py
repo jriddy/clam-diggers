@@ -1,0 +1,7 @@
+from elegant_tesla.cranky_goldwasser import priceless_austin as priceless_austin1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from elegant_tesla.cranky_goldwasser import wizardly_curran as wizardly_curran1
+from stupefied_gates import quirky_sammet as quirky_sammet1
+from elegant_tesla.reverent_nightingale import vibrant_kare as vibrant_kare1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from elegant_tesla.reverent_nightingale import reverent_hopper as reverent_hopper1

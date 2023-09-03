@@ -1,0 +1,22 @@
+from elegant_tesla.vibrant_northcutt.goofy_kepler import elastic_gates as elastic_gates1
+from elegant_tesla.vibrant_northcutt import compassionate_jones as compassionate_jones1
+from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.boring_dijkstra import silly_goodall as silly_goodall1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import unruffled_knuth as unruffled_knuth1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+import gracious_kare as gracious_kare1
+from elegant_tesla.vibrant_northcutt.goofy_kepler import trusting_brattain as trusting_brattain1
+from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
+from elegant_tesla.vibrant_northcutt.goofy_kepler import goofy_bose as goofy_bose1
+from elegant_tesla.vibrant_northcutt.optimistic_hawking import peaceful_tesla as peaceful_tesla1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.silly_goodall import angry_mcnulty as angry_mcnulty1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1
+from elegant_tesla.boring_dijkstra.awesome_morse import elated_poincare as elated_poincare1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.vibrant_northcutt.goofy_kepler import frosty_kare as frosty_kare1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import pedantic_hodgkin as pedantic_hodgkin1
+from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
+from elegant_tesla.vibrant_northcutt import vibrant_goldberg as vibrant_goldberg1
+from elegant_tesla.vibrant_northcutt import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.boring_boyd import zen_pike as zen_pike2

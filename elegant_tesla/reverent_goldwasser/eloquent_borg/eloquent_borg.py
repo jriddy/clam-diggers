@@ -1,0 +1,7 @@
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from elegant_tesla.zen_pike.festive_mclean import gifted_hermann as gifted_hermann1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.reverent_nightingale import optimistic_babbage as optimistic_babbage1
+from elegant_tesla.reverent_nightingale import reverent_hopper as reverent_hopper1
+from elegant_tesla.reverent_goldwasser.eloquent_borg import nifty_kepler as nifty_kepler1

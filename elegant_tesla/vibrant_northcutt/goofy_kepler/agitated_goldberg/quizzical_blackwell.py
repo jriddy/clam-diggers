@@ -1,0 +1,14 @@
+from elegant_tesla.vibrant_northcutt.goofy_kepler import elastic_gates as elastic_gates1
+from elegant_tesla.boring_dijkstra import optimistic_poitras as optimistic_poitras1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import blissful_shaw as blissful_shaw1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1
+from elegant_tesla.boring_dijkstra.awesome_morse import elated_poincare as elated_poincare1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.boring_dijkstra import brave_kepler as brave_kepler1
+from elegant_tesla.boring_dijkstra import awesome_mccarthy as awesome_mccarthy1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import wizardly_jepsen as wizardly_jepsen1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg import elastic_mestorf as elastic_mestorf1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.agitated_goldberg.gifted_yonath import determined_ptolemy as determined_ptolemy1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import clever_yonath as clever_yonath1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import elated_leavitt as elated_leavitt1

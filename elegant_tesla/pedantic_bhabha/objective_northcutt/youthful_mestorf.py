@@ -1,0 +1,4 @@
+from elegant_tesla.pedantic_bhabha.objective_northcutt import goofy_bose as goofy_bose1
+from elegant_tesla.pedantic_bhabha.objective_northcutt import jovial_montalcini as jovial_montalcini1
+from elegant_tesla.pedantic_bhabha.objective_northcutt import trusting_poincare as trusting_poincare1
+from elegant_tesla.zen_pike.optimistic_hawking import trusting_banach as trusting_banach1

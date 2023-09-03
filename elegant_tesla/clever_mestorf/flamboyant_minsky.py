@@ -1,0 +1,7 @@
+from elegant_tesla.clever_mestorf import zen_pike as zen_pike1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike2
+from elegant_tesla.reverent_goldwasser.frosty_jackson import friendly_heyrovsky as friendly_heyrovsky1
+from elegant_tesla.clever_mestorf import goofy_bose as goofy_bose1
+from elegant_tesla.zen_pike.optimistic_hawking import frosty_goldberg as frosty_goldberg1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

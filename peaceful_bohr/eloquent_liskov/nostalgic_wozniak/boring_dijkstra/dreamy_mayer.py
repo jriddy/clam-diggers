@@ -1,0 +1,5 @@
+from elegant_tesla.zen_pike.cocky_goldstine import compassionate_visvesvaraya as compassionate_visvesvaraya1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import sad_edison as sad_edison1
+import vigorous_thompson as vigorous_thompson1

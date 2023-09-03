@@ -1,0 +1,1 @@
+import focused_liskov as focused_liskov1

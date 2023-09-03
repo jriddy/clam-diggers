@@ -1,0 +1,1 @@
+from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1

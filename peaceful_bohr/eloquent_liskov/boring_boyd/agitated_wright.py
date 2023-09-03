@@ -1,0 +1,2 @@
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.boring_boyd import hungry_johnson as hungry_johnson1

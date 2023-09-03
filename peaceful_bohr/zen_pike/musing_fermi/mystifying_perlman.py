@@ -1,0 +1,6 @@
+from peaceful_bohr.zen_pike.musing_fermi import priceless_minsky as priceless_minsky1
+from peaceful_bohr.zen_pike.musing_fermi import awesome_brattain as awesome_brattain1
+from peaceful_bohr.zen_pike.musing_fermi import festive_hodgkin as festive_hodgkin1
+from peaceful_bohr.zen_pike.musing_fermi import mystifying_volhard as mystifying_volhard1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import lucid_pike as lucid_pike1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.elegant_darwin import boring_heisenberg as boring_heisenberg1

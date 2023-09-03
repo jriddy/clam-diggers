@@ -1,0 +1,14 @@
+import fervent_neumann as fervent_neumann1
+from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+import angry_haibt as angry_haibt1
+from elegant_tesla.zen_pike.optimistic_hawking import trusting_banach as trusting_banach1
+from elegant_tesla.trusting_banach import laughing_brattain as laughing_brattain1
+from elegant_tesla.reverent_goldwasser import silly_lamarr as silly_lamarr1
+from elegant_tesla.boring_dijkstra import epic_hamilton as epic_hamilton1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie2
+from elegant_tesla.zen_pike.optimistic_hawking.wizardly_wescoff import infallible_aryabhata as infallible_aryabhata1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.boring_boyd import zen_pike as zen_pike1
+import sad_thompson as sad_thompson1
+from elegant_tesla.reverent_goldwasser.keen_curie import infallible_aryabhata as infallible_aryabhata2

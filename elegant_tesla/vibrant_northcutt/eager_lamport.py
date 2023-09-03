@@ -1,0 +1,6 @@
+from elegant_tesla.vibrant_northcutt.practical_colden import practical_colden as practical_colden1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.vibrant_northcutt import goofy_bose as goofy_bose1
+from elegant_tesla.vibrant_northcutt import festive_hodgkin as festive_hodgkin2
+from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1

@@ -1,0 +1,5 @@
+from zealous_knuth.zealous_knuth import zen_pike as zen_pike1
+from zealous_knuth.zealous_knuth import determined_ptolemy as determined_ptolemy1
+from zealous_knuth.zealous_knuth import cranky_nobel as cranky_nobel1
+from zealous_knuth.zealous_knuth import confident_hoover as confident_hoover1
+from zealous_knuth.zealous_knuth import boring_montalcini as boring_montalcini1

@@ -1,0 +1,6 @@
+from priceless_stonebraker.quizzical_hamilton.zealous_knuth import keen_spence as keen_spence1
+import gallant_yonath as gallant_yonath1
+import tender_rosalind as tender_rosalind1
+from priceless_stonebraker.quizzical_hamilton.zealous_knuth import trusting_bose as trusting_bose1
+from priceless_stonebraker.quizzical_hamilton.zealous_knuth import kind_fermat as kind_fermat1
+from priceless_stonebraker.quizzical_hamilton.zealous_knuth import nifty_thompson as nifty_thompson1

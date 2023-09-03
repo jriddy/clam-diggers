@@ -1,0 +1,5 @@
+from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import frosty_mclean as frosty_mclean1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import inspiring_mirzakhani as inspiring_mirzakhani1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import loving_varahamihira as loving_varahamihira1
+from elegant_tesla.xenodochial_aryabhata import awesome_morse as awesome_morse1

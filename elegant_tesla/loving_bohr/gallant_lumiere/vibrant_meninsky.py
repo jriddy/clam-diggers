@@ -1,0 +1,5 @@
+from elegant_tesla.reverent_goldwasser.zealous_yonath import goofy_goldstine as goofy_goldstine1
+from elegant_tesla.loving_bohr import loving_bohr as loving_bohr1
+from elegant_tesla.zen_pike import gallant_lichterman as gallant_lichterman1
+from elegant_tesla.zen_pike import lucid_jennings as lucid_jennings1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import elegant_tesla as elegant_tesla1

@@ -1,0 +1,13 @@
+from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
+from elegant_tesla.trusting_banach import elegant_bell as elegant_bell1
+from elegant_tesla.zen_pike.optimistic_hawking import trusting_banach as trusting_banach1
+from elegant_tesla.trusting_banach import laughing_brattain as laughing_brattain1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_yonath as hungry_yonath1
+from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.laughing_feynman import hopeful_feynman as hopeful_feynman1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie2
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import friendly_panini as friendly_panini1
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
+from elegant_tesla.boring_boyd import zen_pike as zen_pike1

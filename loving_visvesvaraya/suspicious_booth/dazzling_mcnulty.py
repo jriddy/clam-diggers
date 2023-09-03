@@ -1,0 +1,2 @@
+from loving_visvesvaraya.suspicious_booth import sleepy_babbage as sleepy_babbage1
+from loving_visvesvaraya.suspicious_booth import hardcore_kepler as hardcore_kepler1

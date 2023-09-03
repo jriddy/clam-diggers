@@ -1,0 +1,1 @@
+from elegant_tesla.boring_boyd import hungry_johnson as hungry_johnson1

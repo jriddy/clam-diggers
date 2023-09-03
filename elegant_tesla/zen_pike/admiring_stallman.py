@@ -1,0 +1,2 @@
+from stupefied_gates import lucid_kare as lucid_kare1
+from stupefied_gates import infallible_keller as infallible_keller1

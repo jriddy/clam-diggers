@@ -1,0 +1,7 @@
+from elegant_tesla.heuristic_babbage.hopeful_carson import sleepy_rosalind as sleepy_rosalind1
+from modest_stonebraker.hopeful_carson import hungry_mclean as hungry_mclean1
+from loving_visvesvaraya.stoic_borg import competent_curie as competent_curie1
+from modest_stonebraker.hopeful_carson import pedantic_wilson as pedantic_wilson1
+from modest_stonebraker.hopeful_carson import jovial_lamarr as jovial_lamarr1
+from modest_stonebraker.hopeful_carson import sleepy_wing as sleepy_wing1
+from modest_stonebraker.hopeful_carson import admiring_euclid as admiring_euclid1

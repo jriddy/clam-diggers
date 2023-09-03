@@ -1,0 +1,4 @@
+from elegant_tesla.zen_pike.optimistic_hawking.elegant_bose import nifty_murdock as nifty_murdock1
+from elegant_tesla.zen_pike.optimistic_hawking import cranky_goldwasser as cranky_goldwasser1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import confident_khorana as confident_khorana1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
