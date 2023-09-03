@@ -4,7 +4,7 @@
 [GLOBAL]
 pants_version = "2.16.0"
 backend_packages.add = [
-  "pants.backend.build_files.fmt.black",  
+  "pants.backend.build_files.fmt.black",
   "pants.backend.python",
   "pants.backend.python.lint.docformatter",
   "pants.backend.python.lint.black",
@@ -29,7 +29,7 @@ root_patterns = ["/"]
 # Modify this if you don't have Python 3.9 on your machine.
 # This can be a range, such as [">=3.8,<3.11"], but it's usually recommended to restrict
 # to a single minor version.
-interpreter_constraints = ["==3.9.*"]
+interpreter_constraints = [">=3.10"]
 
 # Enable the "resolves" mechanism, which turns on lockfiles for user code. See
 # https://www.pantsbuild.org/docs/python-third-party-dependencies. This also adds the
@@ -37,6 +37,8 @@ interpreter_constraints = ["==3.9.*"]
 enable_resolves = true
 
 resolves = { python-default = "python-default.lock"}
+
+tailor_pex_binary_targets = true
 
 [python-bootstrap]
 # We search for interpreters both on the $PATH and in the `$(pyenv root)/versions` folder.
