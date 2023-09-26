@@ -1,0 +1,6 @@
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.xenodochial_aryabhata import inspiring_feynman as inspiring_feynman1
+from peaceful_bohr.zen_pike import elated_leavitt as elated_leavitt1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.quirky_davinci import youthful_kowalevski as youthful_kowalevski1
+import vigorous_thompson as vigorous_thompson1
+import reverent_goldwasser as reverent_goldwasser1

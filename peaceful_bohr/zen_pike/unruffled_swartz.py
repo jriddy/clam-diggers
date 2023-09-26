@@ -1,0 +1,6 @@
+from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import mystifying_goldwasser as mystifying_goldwasser1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+from elegant_tesla.zen_pike.optimistic_hawking import frosty_goldberg as frosty_goldberg1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import mystifying_goldwasser as mystifying_goldwasser2

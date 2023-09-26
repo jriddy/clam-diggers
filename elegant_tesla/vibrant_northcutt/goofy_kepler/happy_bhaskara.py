@@ -1,0 +1,3 @@
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
+from elegant_tesla.boring_boyd import wizardly_kirch as wizardly_kirch1

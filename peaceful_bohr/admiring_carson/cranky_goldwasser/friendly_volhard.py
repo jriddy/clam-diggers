@@ -1,0 +1,7 @@
+from elegant_tesla.reverent_goldwasser import stupefied_heisenberg as stupefied_heisenberg1
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from elegant_tesla.cranky_goldwasser import unruffled_perlman as unruffled_perlman1
+from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.cranky_goldwasser import pedantic_stonebraker as pedantic_stonebraker1
+from elegant_tesla.cranky_goldwasser import trusting_curie as trusting_curie1
+from peaceful_bohr.friendly_lalande import zealous_wescoff as zealous_wescoff1

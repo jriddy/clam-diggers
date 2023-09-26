@@ -1,0 +1,11 @@
+import naughty_nightingale as naughty_nightingale1
+from elegant_tesla.heuristic_babbage.sleepy_mestorf import lucid_pike as lucid_pike1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1
+from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
+from elegant_tesla.heuristic_babbage.sleepy_mestorf import zen_curie as zen_curie1
+import trusting_leakey as trusting_leakey1
+from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
+from stupefied_gates import nervous_fermat as nervous_fermat1
+import gracious_kare as gracious_kare1

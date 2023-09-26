@@ -1,0 +1,5 @@
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.cranky_goldwasser import eloquent_noether as eloquent_noether1
+from elegant_tesla.cranky_goldwasser import trusting_curie as trusting_curie1
+import vigorous_thompson as vigorous_thompson1

@@ -1,0 +1,3 @@
+from elegant_tesla.zen_pike import elegant_darwin as elegant_darwin1
+from peaceful_bohr.admiring_carson.nostalgic_wozniak import focused_mirzakhani as focused_mirzakhani1
+from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani2

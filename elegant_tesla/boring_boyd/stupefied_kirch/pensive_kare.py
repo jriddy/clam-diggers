@@ -1,0 +1,2 @@
+from elegant_tesla.boring_boyd.stupefied_kirch import optimistic_kare as optimistic_kare1
+from elegant_tesla.boring_boyd import hungry_johnson as hungry_johnson1

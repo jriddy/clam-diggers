@@ -1,0 +1,7 @@
+from elegant_tesla.mystifying_euclid.dreamy_mayer.gracious_bassi import tender_hoover as tender_hoover1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.boring_boyd import mystifying_brahmagupta as mystifying_brahmagupta1
+from elegant_tesla.boring_boyd import infallible_kowalevski as infallible_kowalevski1
+from elegant_tesla.boring_boyd import relaxed_einstein as relaxed_einstein1
+import silly_panini as silly_panini1
+from elegant_tesla.boring_boyd import pensive_mcnulty as pensive_mcnulty1

@@ -1,0 +1,12 @@
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1
+from elegant_tesla.zen_pike import heuristic_babbage as heuristic_babbage1
+from elegant_tesla.zen_pike.optimistic_hawking import cranky_lamport as cranky_lamport1
+from elegant_tesla.boring_boyd import zen_pike as zen_pike1
+import suspicious_goldstine as suspicious_goldstine1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import blissful_spence as blissful_spence1
+from elegant_tesla.reverent_nightingale import sleepy_poincare as sleepy_poincare1
+from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
+from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+from loving_visvesvaraya.stoic_borg import vibrant_bhaskara as vibrant_bhaskara1

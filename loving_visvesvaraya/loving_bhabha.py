@@ -1,0 +1,1 @@
+from elegant_tesla.cranky_goldwasser import fervent_rosalind as fervent_rosalind1

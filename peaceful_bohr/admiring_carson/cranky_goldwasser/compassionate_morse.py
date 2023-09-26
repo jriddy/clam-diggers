@@ -1,0 +1,5 @@
+from elegant_tesla.cranky_goldwasser import compassionate_stallman as compassionate_stallman1
+from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+import vigorous_thompson as vigorous_thompson1
+import sad_thompson as sad_thompson1

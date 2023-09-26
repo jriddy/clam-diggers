@@ -1,0 +1,10 @@
+from elegant_tesla.cranky_goldwasser.hopeful_feynman import brave_lamarr as brave_lamarr1
+from elegant_tesla.cranky_goldwasser.hopeful_feynman import brave_mcnulty as brave_mcnulty1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.cranky_goldwasser.hopeful_feynman import zen_curie as zen_curie1
+from elegant_tesla.zen_pike import hardcore_morse as hardcore_morse1
+from elegant_tesla.cranky_goldwasser.hopeful_feynman import amazing_dijkstra as amazing_dijkstra1
+from elegant_tesla.cranky_goldwasser.hopeful_feynman import romantic_poitras as romantic_poitras1
+from elegant_tesla.cranky_goldwasser.hopeful_feynman import nervous_khorana as nervous_khorana1
+import vigorous_thompson as vigorous_thompson1
+from elegant_tesla.cranky_goldwasser.hopeful_feynman import upbeat_snyder as upbeat_snyder1

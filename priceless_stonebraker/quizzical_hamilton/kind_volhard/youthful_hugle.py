@@ -1,0 +1,8 @@
+import tender_rosalind as tender_rosalind1
+from priceless_stonebraker.quizzical_hamilton.kind_volhard import lucid_cray as lucid_cray1
+from priceless_stonebraker.quizzical_hamilton.adoring_austin import eager_booth as eager_booth1
+from priceless_stonebraker.quizzical_hamilton.kind_volhard import naughty_murdock as naughty_murdock1
+from priceless_stonebraker.quizzical_hamilton.kind_volhard import fervent_davinci as fervent_davinci1
+import gallant_yonath as gallant_yonath1
+import focused_liskov as focused_liskov1
+from priceless_stonebraker.quizzical_hamilton.happy_poitras import gracious_curie as gracious_curie1

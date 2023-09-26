@@ -1,0 +1,18 @@
+from elegant_tesla.cranky_goldwasser import quirky_lewin as quirky_lewin1
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.cranky_goldwasser import distracted_meitner as distracted_meitner1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+from peaceful_bohr.friendly_lalande import compassionate_haibt as compassionate_haibt1
+from peaceful_bohr.jovial_bell import reverent_meitner as reverent_meitner1
+from peaceful_bohr.lucid_hypatia import focused_mirzakhani as focused_mirzakhani1
+from peaceful_bohr.cranky_mahavira import sleepy_euclid as sleepy_euclid1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+import vigorous_thompson as vigorous_thompson1
+from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
+from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import pedantic_hodgkin as pedantic_hodgkin1
+from peaceful_bohr import awesome_bose as awesome_bose1
+from peaceful_bohr.zen_pike import hardcore_jepsen as hardcore_jepsen1
+from stupefied_gates import quirky_sammet as quirky_sammet1
+from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1

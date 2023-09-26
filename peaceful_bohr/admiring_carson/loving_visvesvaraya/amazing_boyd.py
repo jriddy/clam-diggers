@@ -1,0 +1,7 @@
+from elegant_tesla.cranky_goldwasser import boring_edison as boring_edison1
+from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.cranky_goldwasser.awesome_noyce import suspicious_fermat as suspicious_fermat1
+from elegant_tesla.cranky_goldwasser import boring_morse as boring_morse1
+from elegant_tesla.zen_pike import admiring_knuth as admiring_knuth1
+from elegant_tesla.cranky_goldwasser.awesome_noyce import stoic_pike as stoic_pike1
+import vigorous_thompson as vigorous_thompson1

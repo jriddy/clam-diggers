@@ -1,0 +1,4 @@
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from elegant_tesla.boring_boyd.clever_raman import eloquent_payne as eloquent_payne1
+from elegant_tesla.boring_boyd.clever_raman import determined_ptolemy as determined_ptolemy1
+from elegant_tesla.boring_boyd.clever_raman import zen_curie as zen_curie1

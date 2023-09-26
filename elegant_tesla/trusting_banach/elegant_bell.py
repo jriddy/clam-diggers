@@ -1,0 +1,13 @@
+import naughty_nightingale as naughty_nightingale1
+from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
+from elegant_tesla.zen_pike import serene_bose as serene_bose1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.zen_pike.optimistic_hawking import wizardly_volhard as wizardly_volhard1
+from elegant_tesla.zen_pike.optimistic_hawking import trusting_banach as trusting_banach1
+import elastic_goldberg as elastic_goldberg1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import zealous_varahamihira as zealous_varahamihira1
+from elegant_tesla.boring_dijkstra import epic_hamilton as epic_hamilton1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import trusting_banach as trusting_banach2
+from elegant_tesla.boring_boyd import zen_curie as zen_curie2
+import eloquent_morse as eloquent_morse1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1

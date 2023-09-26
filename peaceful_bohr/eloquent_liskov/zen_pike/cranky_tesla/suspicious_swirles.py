@@ -1,0 +1,2 @@
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.zen_pike.cranky_tesla import youthful_khorana as youthful_khorana1

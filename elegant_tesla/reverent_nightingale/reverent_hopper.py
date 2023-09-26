@@ -1,0 +1,6 @@
+from elegant_tesla.reverent_nightingale import sleepy_poincare as sleepy_poincare1
+import silly_panini as silly_panini1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import frosty_minsky as frosty_minsky1
+from elegant_tesla.reverent_nightingale import reverent_hopper as reverent_hopper1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1

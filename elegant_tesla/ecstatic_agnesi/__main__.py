@@ -1,0 +1,1 @@
+from elegant_tesla.ecstatic_agnesi import ecstatic_agnesi as ecstatic_agnesi1

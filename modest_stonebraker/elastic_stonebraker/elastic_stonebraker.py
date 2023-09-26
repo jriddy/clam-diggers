@@ -1,0 +1,3 @@
+from elegant_tesla.reverent_goldwasser import eager_williams as eager_williams1
+from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
+from elegant_tesla.zen_pike import admiring_galileo as admiring_galileo1

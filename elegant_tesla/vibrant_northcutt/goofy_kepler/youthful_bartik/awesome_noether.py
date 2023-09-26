@@ -1,0 +1,9 @@
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.vibrant_northcutt.practical_colden import eloquent_liskov as eloquent_liskov1
+from elegant_tesla.vibrant_northcutt.goofy_kepler import awesome_noether as awesome_noether1
+from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.youthful_bartik import cranky_pasteur as cranky_pasteur1
+from elegant_tesla.vibrant_northcutt.goofy_kepler import goofy_bose as goofy_bose1
+from elegant_tesla.vibrant_northcutt.optimistic_hawking import peaceful_tesla as peaceful_tesla1

@@ -1,0 +1,1 @@
+from elegant_tesla.boring_boyd import condescending_lamarr as condescending_lamarr1

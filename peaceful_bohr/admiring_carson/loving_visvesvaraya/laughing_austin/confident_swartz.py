@@ -1,0 +1,12 @@
+from elegant_tesla.cranky_goldwasser import boring_edison as boring_edison1
+import amazing_murdock as amazing_murdock1
+from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.cranky_goldwasser import boring_morse as boring_morse1
+from peaceful_bohr.admiring_carson.loving_visvesvaraya.laughing_austin import epic_hypatia as epic_hypatia1
+from loving_visvesvaraya.laughing_austin import jovial_bell as jovial_bell1
+from peaceful_bohr.admiring_carson.loving_visvesvaraya.laughing_austin import optimistic_meitner as optimistic_meitner1
+from loving_visvesvaraya.laughing_austin import keen_goldstine as keen_goldstine1
+import reverent_fermi as reverent_fermi1
+from peaceful_bohr.admiring_carson.loving_visvesvaraya.laughing_austin import wonderful_hypatia as wonderful_hypatia1
+from elegant_tesla.cranky_goldwasser import festive_mclean as festive_mclean1
+import vigorous_thompson as vigorous_thompson1

@@ -1,0 +1,3 @@
+import vigorous_thompson as vigorous_thompson1
+import pedantic_mclean as pedantic_mclean1
+from peaceful_bohr.zen_pike import inspiring_babbage as inspiring_babbage1

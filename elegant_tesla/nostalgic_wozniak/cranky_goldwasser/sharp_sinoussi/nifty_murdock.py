@@ -1,0 +1,13 @@
+from elegant_tesla.nifty_murdock import boring_dijkstra as boring_dijkstra1
+from stupefied_gates import frosty_curran as frosty_curran1
+from elegant_tesla.nifty_murdock import practical_noether as practical_noether1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.elegant_bose import nifty_murdock as nifty_murdock1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import vigorous_albattani as vigorous_albattani1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import sad_edison as sad_edison1
+from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import unruffled_knuth as unruffled_knuth1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
+from stupefied_gates import stoic_jackson as stoic_jackson1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import admiring_mirzakhani as admiring_mirzakhani1

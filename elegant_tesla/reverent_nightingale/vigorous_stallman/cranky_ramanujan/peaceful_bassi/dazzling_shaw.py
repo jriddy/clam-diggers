@@ -1,0 +1,9 @@
+import silly_haibt as silly_haibt1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.festive_mirzakhani import dazzling_shaw as dazzling_shaw1
+import wizardly_hodgkin as wizardly_hodgkin1
+from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import dazzling_shaw as dazzling_shaw2
+from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from stupefied_gates import hardcore_torvalds as hardcore_torvalds1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.peaceful_bassi import boring_dijkstra as boring_dijkstra1

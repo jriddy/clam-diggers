@@ -1,0 +1,2 @@
+from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import elegant_darwin as elegant_darwin1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1

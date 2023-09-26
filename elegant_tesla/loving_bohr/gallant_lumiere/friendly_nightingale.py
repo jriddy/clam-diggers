@@ -1,0 +1,6 @@
+from elegant_tesla.loving_bohr import loving_bohr as loving_bohr1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.reverent_goldwasser import pensive_fermat as pensive_fermat1
+from elegant_tesla.loving_bohr.gallant_lumiere import zen_curie as zen_curie1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import zealous_yonath as zealous_yonath1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1

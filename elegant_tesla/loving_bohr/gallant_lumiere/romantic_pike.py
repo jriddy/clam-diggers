@@ -1,0 +1,12 @@
+from elegant_tesla.loving_bohr import loving_bohr as loving_bohr1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.reverent_goldwasser import stupefied_heisenberg as stupefied_heisenberg1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import priceless_noyce as priceless_noyce1
+from elegant_tesla.boring_boyd import mystifying_volhard as mystifying_volhard1
+from elegant_tesla.zen_pike.optimistic_hawking import trusting_banach as trusting_banach1
+from elegant_tesla.trusting_banach import laughing_brattain as laughing_brattain1
+from elegant_tesla.zen_pike.optimistic_hawking import wizardly_volhard as wizardly_volhard1
+from elegant_tesla.zen_pike import naughty_turing as naughty_turing1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.loving_bohr import relaxed_shirley as relaxed_shirley1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

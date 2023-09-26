@@ -1,0 +1,8 @@
+from elegant_tesla.reverent_nightingale import eager_williams as eager_williams1
+import vigorous_thompson as vigorous_thompson1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.cranky_goldwasser import romantic_wozniak as romantic_wozniak1
+from peaceful_bohr import zen_curie as zen_curie1
+from elegant_tesla.zen_pike.optimistic_hawking import hardcore_newton as hardcore_newton1
+from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import frosty_minsky as frosty_minsky1
+from elegant_tesla.reverent_goldwasser import eager_williams as eager_williams2

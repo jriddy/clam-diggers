@@ -1,0 +1,7 @@
+from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import youthful_bartik as youthful_bartik1
+from elegant_tesla.vibrant_northcutt.goofy_kepler import elastic_heisenberg as elastic_heisenberg1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import loving_varahamihira as loving_varahamihira1
+from elegant_tesla.vibrant_northcutt import zen_curie as zen_curie1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie2
+from elegant_tesla.vibrant_northcutt import vibrant_goldberg as vibrant_goldberg1

@@ -1,0 +1,10 @@
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
+from elegant_tesla.zen_pike.optimistic_hawking import loving_pare as loving_pare1
+from elegant_tesla.zen_pike import gallant_lichterman as gallant_lichterman1
+from elegant_tesla.zen_pike import loving_pare as loving_pare2
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1
+from elegant_tesla.boring_boyd import zen_pike as zen_pike1
+from elegant_tesla.mystifying_euclid import dazzling_mirzakhani as dazzling_mirzakhani1

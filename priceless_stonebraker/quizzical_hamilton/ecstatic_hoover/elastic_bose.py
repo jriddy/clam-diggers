@@ -1,0 +1,2 @@
+from priceless_stonebraker.quizzical_hamilton.ecstatic_hoover import pedantic_noyce as pedantic_noyce1
+from priceless_stonebraker.quizzical_hamilton.ecstatic_hoover import trusting_carson as trusting_carson1

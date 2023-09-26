@@ -1,0 +1,7 @@
+from stupefied_gates import infallible_banach as infallible_banach1
+from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.peaceful_bassi import boring_dijkstra as boring_dijkstra1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.festive_mirzakhani import hopeful_jepsen as hopeful_jepsen1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import infallible_aryabhata as infallible_aryabhata1
+from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

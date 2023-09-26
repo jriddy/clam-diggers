@@ -1,0 +1,6 @@
+from elegant_tesla.boring_boyd.clever_raman import determined_ptolemy as determined_ptolemy1
+from elegant_tesla.boring_boyd import hungry_johnson as hungry_johnson1
+from elegant_tesla.boring_boyd.clever_raman import zen_curie as zen_curie1
+from elegant_tesla.boring_boyd.clever_raman import lucid_shockley as lucid_shockley1
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1

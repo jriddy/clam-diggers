@@ -1,0 +1,5 @@
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
+from elegant_tesla.boring_dijkstra.awesome_morse import mystifying_bhabha as mystifying_bhabha1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.boring_dijkstra import frosty_pasteur as frosty_pasteur1

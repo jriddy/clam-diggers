@@ -1,0 +1,25 @@
+from stupefied_gates import stoic_jackson as stoic_jackson1
+from stupefied_gates import frosty_curran as frosty_curran1
+from elegant_tesla.reverent_nightingale.vigorous_stallman import stoic_chandrasekhar as stoic_chandrasekhar1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import admiring_knuth as admiring_knuth1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from stupefied_gates import jovial_benz as jovial_benz1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as eloquent_borg1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from elegant_tesla.heuristic_babbage.dazzling_shaw import lucid_pike as lucid_pike1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import vigorous_albattani as vigorous_albattani1
+from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import dazzling_shaw as dazzling_shaw1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import mystifying_brahmagupta as mystifying_brahmagupta1
+from elegant_tesla.heuristic_babbage.dazzling_shaw import priceless_austin as priceless_austin1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import sad_edison as sad_edison1
+from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
+from elegant_tesla.zen_pike import heuristic_babbage as heuristic_babbage1
+import trusting_leakey as trusting_leakey1
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import unruffled_knuth as unruffled_knuth1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
+from elegant_tesla.zen_pike import xenodochial_euclid as xenodochial_euclid1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra.mystifying_volhard import heuristic_babbage as heuristic_babbage2
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import admiring_mirzakhani as admiring_mirzakhani1

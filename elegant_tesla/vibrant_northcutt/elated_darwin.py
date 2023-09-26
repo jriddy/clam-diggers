@@ -1,0 +1,17 @@
+from elegant_tesla.vibrant_northcutt import mystifying_bhabha as mystifying_bhabha1
+from elegant_tesla.vibrant_northcutt.amazing_hoover import affectionate_johnson as affectionate_johnson1
+from elegant_tesla.vibrant_northcutt.amazing_hoover import awesome_brattain as awesome_brattain1
+from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import elastic_nobel as elastic_nobel1
+from elegant_tesla.vibrant_northcutt.amazing_hoover import loving_stonebraker as loving_stonebraker1
+from elegant_tesla.vibrant_northcutt import pensive_newton as pensive_newton1
+from elegant_tesla.vibrant_northcutt.amazing_hoover import vigorous_cori as vigorous_cori1
+from elegant_tesla.vibrant_northcutt import goofy_bose as goofy_bose1
+from elegant_tesla.boring_dijkstra import distracted_hawking as distracted_hawking1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import elegant_tesla as elegant_tesla1
+from elegant_tesla.vibrant_northcutt.amazing_hoover import boring_kepler as boring_kepler1
+from elegant_tesla.vibrant_northcutt.amazing_hoover import kind_engelbart as kind_engelbart1
+from elegant_tesla.vibrant_northcutt import vibrant_goldberg as vibrant_goldberg1
+from elegant_tesla.vibrant_northcutt.practical_colden import practical_colden as practical_colden1
+from elegant_tesla.vibrant_northcutt import wizardly_neumann as wizardly_neumann1
+from elegant_tesla.vibrant_northcutt.goofy_kepler import xenodochial_bohr as xenodochial_bohr1

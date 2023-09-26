@@ -1,0 +1,10 @@
+from elegant_tesla.frosty_goldberg import distracted_hawking as distracted_hawking1
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from elegant_tesla.boring_dijkstra import distracted_hawking as distracted_hawking2
+from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.zen_pike import focused_raman as focused_raman1
+from elegant_tesla.zen_pike import festive_khorana as festive_khorana1
+from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
+from elegant_tesla.frosty_goldberg import gallant_lumiere as gallant_lumiere1

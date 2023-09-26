@@ -1,0 +1,5 @@
+from elegant_tesla.nifty_murdock import boring_dijkstra as boring_dijkstra1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.elegant_bose import nifty_murdock as nifty_murdock1
+from elegant_tesla.nifty_murdock import heuristic_hopper as heuristic_hopper1

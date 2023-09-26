@@ -1,0 +1,2 @@
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from peaceful_bohr.eloquent_liskov.reverent_nightingale.vigorous_stallman.cranky_ramanujan import focused_mirzakhani as focused_mirzakhani2

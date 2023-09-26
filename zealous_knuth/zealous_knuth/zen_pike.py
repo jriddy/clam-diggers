@@ -1,0 +1,1 @@
+from zealous_knuth.zealous_knuth import determined_ptolemy as determined_ptolemy1

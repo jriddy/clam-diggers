@@ -1,0 +1,9 @@
+from elegant_tesla.loving_bohr import loving_bohr as loving_bohr1
+from elegant_tesla.loving_bohr import lucid_poincare as lucid_poincare1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.loving_bohr import gallant_kilby as gallant_kilby1
+from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystifying_mayer1
+from peaceful_bohr.friendly_lalande import trusting_poitras as trusting_poitras1
+from elegant_tesla.loving_bohr import happy_leakey as happy_leakey1
+from elegant_tesla.loving_bohr import upbeat_yonath as upbeat_yonath1
+from elegant_tesla.loving_bohr import serene_curie as serene_curie1

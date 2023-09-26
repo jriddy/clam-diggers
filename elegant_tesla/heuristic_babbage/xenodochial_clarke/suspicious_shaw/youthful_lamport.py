@@ -1,0 +1,3 @@
+from elegant_tesla.heuristic_babbage.quirky_goldstine import zen_curie as zen_curie1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
+from stupefied_gates import objective_austin as objective_austin1

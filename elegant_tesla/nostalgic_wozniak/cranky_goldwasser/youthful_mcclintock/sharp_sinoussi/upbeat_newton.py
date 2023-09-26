@@ -1,0 +1,7 @@
+from stupefied_gates import optimistic_einstein as optimistic_einstein1
+from stupefied_gates import stoic_jackson as stoic_jackson1
+from stupefied_gates import frosty_curran as frosty_curran1
+from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.youthful_mcclintock import unruffled_knuth as unruffled_knuth1
+from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.youthful_mcclintock import sad_edison as sad_edison1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import upbeat_newton as upbeat_newton1

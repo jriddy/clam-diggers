@@ -1,0 +1,15 @@
+from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.boring_boyd import affectionate_pike as affectionate_pike1
+from elegant_tesla.zen_pike import distracted_lamarr as distracted_lamarr1
+from elegant_tesla.zen_pike import trusting_panini as trusting_panini1
+import silly_rosalind as silly_rosalind1
+from peaceful_bohr.admiring_carson import zen_curie as zen_curie2
+from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import epic_hamilton as epic_hamilton1
+from elegant_tesla.boring_dijkstra import sharp_stallman as sharp_stallman1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from peaceful_bohr.admiring_carson import optimistic_swirles as optimistic_swirles1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import mystifying_goldwasser as mystifying_goldwasser1
+import vigilant_torvalds as vigilant_torvalds1
+from elegant_tesla.zen_pike.optimistic_hawking.elated_darwin import suspicious_meitner as suspicious_meitner1

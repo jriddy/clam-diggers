@@ -1,0 +1,4 @@
+from modest_stonebraker.hopeful_carson import admiring_euclid as admiring_euclid1
+from modest_stonebraker.hopeful_carson import hungry_mclean as hungry_mclean1
+from loving_visvesvaraya.stoic_borg import romantic_lichterman as romantic_lichterman1
+from loving_visvesvaraya.stoic_borg import goofy_noether as goofy_noether1

@@ -1,0 +1,1 @@
+from elegant_tesla.cranky_goldwasser import quirky_bartik as quirky_bartik1

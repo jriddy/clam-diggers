@@ -1,0 +1,5 @@
+from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
+from elegant_tesla.boring_dijkstra import sharp_stallman as sharp_stallman1
+from elegant_tesla.zen_pike import vibrant_bartik as vibrant_bartik1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie2
+from loving_visvesvaraya.stoic_borg import condescending_shirley as condescending_shirley1

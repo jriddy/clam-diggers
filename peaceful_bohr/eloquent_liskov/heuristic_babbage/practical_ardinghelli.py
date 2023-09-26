@@ -1,0 +1,9 @@
+import reverent_fermi as reverent_fermi1
+from elegant_tesla.heuristic_babbage.youthful_bell import priceless_austin as priceless_austin1
+from elegant_tesla.heuristic_babbage import naughty_yalow as naughty_yalow1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.heuristic_babbage.youthful_bell import youthful_wescoff as youthful_wescoff1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import youthful_bell as youthful_bell1
+from peaceful_bohr import zen_curie as zen_curie1
+import vigorous_thompson as vigorous_thompson1

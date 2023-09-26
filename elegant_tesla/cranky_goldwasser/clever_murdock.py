@@ -1,0 +1,11 @@
+from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1
+from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as eloquent_borg1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import pedantic_hodgkin as pedantic_hodgkin1
+from elegant_tesla.reverent_nightingale import wizardly_payne as wizardly_payne1
+from stupefied_gates import quirky_sammet as quirky_sammet1
+from elegant_tesla.boring_dijkstra import friendly_hodgkin as friendly_hodgkin1
+from elegant_tesla.heuristic_babbage import kind_dijkstra as kind_dijkstra1

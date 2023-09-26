@@ -1,0 +1,5 @@
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import nifty_brattain as nifty_brattain1
+from elegant_tesla.reverent_nightingale.pensive_montalcini import eloquent_yonath as eloquent_yonath1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.heuristic_babbage.infallible_aryabhata import suspicious_newton as suspicious_newton1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1

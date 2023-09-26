@@ -1,0 +1,14 @@
+from elegant_tesla.zen_pike.cocky_goldstine import modest_brown as modest_brown1
+from elegant_tesla.zen_pike.cocky_goldstine import compassionate_visvesvaraya as compassionate_visvesvaraya1
+from elegant_tesla.zen_pike.cocky_goldstine import cranky_ramanujan as cranky_ramanujan1
+from elegant_tesla.zen_pike.cocky_goldstine.stoic_hamilton import ecstatic_leavitt as ecstatic_leavitt1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+from elegant_tesla.zen_pike.cocky_goldstine import competent_brahmagupta as competent_brahmagupta1
+from elegant_tesla.zen_pike.cocky_goldstine import mystifying_mclean as mystifying_mclean1
+from elegant_tesla.zen_pike.cocky_goldstine import suspicious_franklin as suspicious_franklin1
+from elegant_tesla.boring_boyd import mystifying_volhard as mystifying_volhard1
+from elegant_tesla.zen_pike.cocky_goldstine import jolly_kepler as jolly_kepler1
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from elegant_tesla.zen_pike.cocky_goldstine import stoic_swartz as stoic_swartz1
+from elegant_tesla.zen_pike.cocky_goldstine import wizardly_wilson as wizardly_wilson1
+from elegant_tesla.zen_pike.cocky_goldstine import hungry_lichterman as hungry_lichterman1

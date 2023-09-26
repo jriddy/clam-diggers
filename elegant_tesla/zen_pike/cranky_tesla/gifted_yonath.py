@@ -1,0 +1,12 @@
+from elegant_tesla.zen_pike.cranky_tesla.nifty_bhaskara import hardcore_wescoff as hardcore_wescoff1
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+import sleepy_shannon as sleepy_shannon1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from elegant_tesla.zen_pike.cranky_tesla.nifty_bhaskara import admiring_shirley as admiring_shirley1
+from elegant_tesla.zen_pike.cranky_tesla.nifty_bhaskara import cranky_aryabhata as cranky_aryabhata1
+from elegant_tesla.zen_pike.cranky_tesla import mystifying_volhard as mystifying_volhard1
+import trusting_leakey as trusting_leakey1
+from elegant_tesla.boring_boyd import focused_bohr as focused_bohr1
+from elegant_tesla.zen_pike import compassionate_rosalind as compassionate_rosalind1
+from elegant_tesla.zen_pike import angry_shirley as angry_shirley1
+from elegant_tesla.zen_pike import gracious_bassi as gracious_bassi1

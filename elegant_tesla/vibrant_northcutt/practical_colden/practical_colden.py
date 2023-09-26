@@ -1,0 +1,3 @@
+from elegant_tesla.vibrant_northcutt.practical_colden import friendly_hodgkin as friendly_hodgkin1
+from elegant_tesla.vibrant_northcutt.practical_colden import determined_lichterman as determined_lichterman1
+from elegant_tesla.vibrant_northcutt.practical_colden import elastic_gates as elastic_gates1

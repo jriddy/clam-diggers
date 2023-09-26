@@ -1,0 +1,3 @@
+from elegant_tesla.xenodochial_aryabhata.trusting_murdock import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.xenodochial_aryabhata.trusting_murdock import goofy_bose as goofy_bose1
+from elegant_tesla.xenodochial_aryabhata.trusting_murdock import amazing_snyder as amazing_snyder1

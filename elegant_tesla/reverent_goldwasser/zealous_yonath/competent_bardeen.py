@@ -1,0 +1,2 @@
+from stupefied_gates import quirky_sammet as quirky_sammet1
+from elegant_tesla.reverent_goldwasser.zealous_yonath import frosty_morse as frosty_morse1

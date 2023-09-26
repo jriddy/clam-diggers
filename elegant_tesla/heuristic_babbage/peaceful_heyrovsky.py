@@ -1,0 +1,11 @@
+from elegant_tesla.heuristic_babbage import loving_mccarthy as loving_mccarthy1
+from elegant_tesla.heuristic_babbage import boring_dijkstra as boring_dijkstra1
+from elegant_tesla.heuristic_babbage import zen_bardeen as zen_bardeen1
+from elegant_tesla.heuristic_babbage import naughty_yalow as naughty_yalow1
+from elegant_tesla.heuristic_babbage import compassionate_beaver as compassionate_beaver1
+from elegant_tesla.heuristic_babbage import amazing_curran as amazing_curran1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
+from elegant_tesla.heuristic_babbage import condescending_curie as condescending_curie1
+from elegant_tesla.heuristic_babbage import angry_lamarr as angry_lamarr1
+from elegant_tesla.heuristic_babbage import confident_wescoff as confident_wescoff1
+from elegant_tesla.heuristic_babbage import unruffled_bell as unruffled_bell1

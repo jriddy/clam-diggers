@@ -1,0 +1,6 @@
+from loving_visvesvaraya.confident_hoover.boring_dijkstra import hardcore_jepsen as hardcore_jepsen1
+from loving_visvesvaraya.confident_hoover.boring_dijkstra import focused_kilby as focused_kilby1
+from loving_visvesvaraya.confident_hoover.peaceful_bohr import jovial_archimedes as jovial_archimedes1
+from loving_visvesvaraya.confident_hoover.kind_morse.eloquent_chandrasekhar import eloquent_chandrasekhar as eloquent_chandrasekhar1
+import vigorous_thompson as vigorous_thompson1
+from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1

@@ -1,0 +1,8 @@
+from elegant_tesla.vibrant_northcutt.goofy_kepler.silly_goodall import upbeat_ramanujan as upbeat_ramanujan1
+from elegant_tesla.vibrant_northcutt.goofy_kepler.silly_goodall import musing_visvesvaraya as musing_visvesvaraya1
+from elegant_tesla.vibrant_northcutt import unruffled_bartik as unruffled_bartik1
+from elegant_tesla.vibrant_northcutt.youthful_wescoff import boring_neumann as boring_neumann1
+from elegant_tesla.boring_dijkstra import suspicious_meitner as suspicious_meitner1
+from elegant_tesla.vibrant_northcutt import vibrant_goldberg as vibrant_goldberg1
+from elegant_tesla.vibrant_northcutt.goofy_kepler import priceless_bohr as priceless_bohr1
+from stupefied_gates import quirky_sammet as quirky_sammet1

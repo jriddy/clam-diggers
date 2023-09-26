@@ -1,0 +1,3 @@
+from peaceful_bohr.admiring_carson.loving_visvesvaraya.stupefied_sinoussi import zealous_shockley as zealous_shockley1
+from elegant_tesla.cranky_goldwasser.awesome_noyce import stoic_pike as stoic_pike1
+import vigorous_thompson as vigorous_thompson1

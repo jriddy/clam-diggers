@@ -1,0 +1,2 @@
+from elegant_tesla.reverent_nightingale.pensive_montalcini.distracted_meninsky import practical_hypatia as practical_hypatia1
+from elegant_tesla.reverent_nightingale.pensive_montalcini.distracted_meninsky import determined_ptolemy as determined_ptolemy1

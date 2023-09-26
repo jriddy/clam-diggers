@@ -1,0 +1,5 @@
+from elegant_tesla.cranky_goldwasser import boring_edison as boring_edison1
+from elegant_tesla.zen_pike import competent_jennings as competent_jennings1
+from loving_visvesvaraya.confident_hoover.sad_carson import pedantic_bohr as pedantic_bohr1
+from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1
+import vigorous_thompson as vigorous_thompson1

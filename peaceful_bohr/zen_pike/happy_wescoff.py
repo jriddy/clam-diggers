@@ -1,0 +1,6 @@
+from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt.happy_wescoff import goofy_bose as goofy_bose1
+from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt.happy_wescoff import frosty_chandrasekhar as frosty_chandrasekhar1
+from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt.happy_wescoff import dreamy_mayer as dreamy_mayer1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt.happy_wescoff import musing_fermi as musing_fermi1
+from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt.happy_wescoff import quirky_davinci as quirky_davinci1

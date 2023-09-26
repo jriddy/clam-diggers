@@ -1,0 +1,8 @@
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from peaceful_bohr.brave_dubinsky import wizardly_wescoff as wizardly_wescoff1
+from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.zen_pike import hungry_mahavira as hungry_mahavira1
+from elegant_tesla.reverent_goldwasser.frosty_jackson import friendly_heyrovsky as friendly_heyrovsky1
+from peaceful_bohr.admiring_carson import infallible_easley as infallible_easley1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1

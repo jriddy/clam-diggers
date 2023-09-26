@@ -1,0 +1,14 @@
+from elegant_tesla.zen_pike import unruffled_clarke as unruffled_clarke1
+from peaceful_bohr.zen_pike import laughing_feynman as laughing_feynman1
+from peaceful_bohr.zen_pike import zen_bohr as zen_bohr1
+from elegant_tesla.reverent_nightingale.pensive_montalcini import confident_poitras as confident_poitras1
+from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+from peaceful_bohr.cranky_ramanujan import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as eloquent_borg1
+from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
+from peaceful_bohr.brave_dubinsky import loving_snyder as loving_snyder1
+import vigorous_thompson as vigorous_thompson1
+from stupefied_gates import quirky_sammet as quirky_sammet1

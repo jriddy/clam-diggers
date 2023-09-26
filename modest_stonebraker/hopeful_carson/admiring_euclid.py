@@ -1,0 +1,3 @@
+from modest_stonebraker.hopeful_carson import sleepy_wing as sleepy_wing1
+from modest_stonebraker.hopeful_carson import hungry_mclean as hungry_mclean1
+from loving_visvesvaraya.stoic_borg import thirsty_wright as thirsty_wright1

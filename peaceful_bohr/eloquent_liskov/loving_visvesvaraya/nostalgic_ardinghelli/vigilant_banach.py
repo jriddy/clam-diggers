@@ -1,0 +1,4 @@
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from loving_visvesvaraya.nostalgic_ardinghelli.kind_almeida import confident_hamilton as confident_hamilton1
+from loving_visvesvaraya.nostalgic_ardinghelli.kind_almeida import goofy_mcclintock as goofy_mcclintock1
+from loving_visvesvaraya.nostalgic_ardinghelli.kind_almeida import goofy_knuth as goofy_knuth1

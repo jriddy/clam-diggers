@@ -1,0 +1,10 @@
+from loving_visvesvaraya.confident_hoover.elegant_raman import cranky_allen as cranky_allen1
+from loving_visvesvaraya.confident_hoover.boring_dijkstra import angry_varahamihira as angry_varahamihira1
+from loving_visvesvaraya.confident_hoover.peaceful_bohr.wonderful_montalcini import focused_mirzakhani as focused_mirzakhani1
+from loving_visvesvaraya.confident_hoover.elegant_raman import lucid_spence as lucid_spence1
+from loving_visvesvaraya.confident_hoover.elegant_raman import mystifying_volhard as mystifying_volhard1
+import gracious_kare as gracious_kare1
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from loving_visvesvaraya.confident_hoover.elegant_raman import vigilant_visvesvaraya as vigilant_visvesvaraya1
+from loving_visvesvaraya.confident_hoover.peaceful_bohr import nostalgic_lovelace as nostalgic_lovelace1
+import vigorous_thompson as vigorous_thompson1

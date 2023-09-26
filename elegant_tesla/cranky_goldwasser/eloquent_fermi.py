@@ -1,0 +1,11 @@
+from elegant_tesla.heuristic_babbage import loving_mccarthy as loving_mccarthy1
+from elegant_tesla.reverent_nightingale.pensive_montalcini import awesome_lichterman as awesome_lichterman1
+from elegant_tesla.reverent_nightingale.zen_bohr import zen_curie as zen_curie1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.reverent_goldwasser.goofy_kepler import frosty_mcclintock as frosty_mcclintock1
+from elegant_tesla.zen_pike import heuristic_babbage as heuristic_babbage1
+from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import dazzling_shaw as dazzling_shaw1
+from elegant_tesla.cranky_goldwasser import relaxed_perlman as relaxed_perlman1
+from elegant_tesla.reverent_nightingale.pensive_montalcini import boring_dijkstra as boring_dijkstra1
+from elegant_tesla.reverent_goldwasser import pensive_fermat as pensive_fermat1
+from stupefied_gates import quirky_sammet as quirky_sammet1

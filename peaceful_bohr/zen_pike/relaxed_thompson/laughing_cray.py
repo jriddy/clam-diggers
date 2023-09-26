@@ -1,0 +1,2 @@
+from stupefied_gates import quirky_sammet as quirky_sammet1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.relaxed_bhaskara import jolly_austin as jolly_austin1

@@ -1,0 +1,3 @@
+import vigorous_thompson as vigorous_thompson1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.quirky_swirles.cranky_hamilton import condescending_euler as condescending_euler1

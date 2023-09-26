@@ -1,0 +1,9 @@
+from loving_visvesvaraya.confident_hoover.kind_morse.lucid_hypatia import lucid_hypatia as lucid_hypatia1
+import hungry_neumann as hungry_neumann1
+from loving_visvesvaraya.confident_hoover.determined_ptolemy import friendly_davinci as friendly_davinci1
+from loving_visvesvaraya.confident_hoover.kind_morse.naughty_wright import naughty_wright as naughty_wright1
+from loving_visvesvaraya.confident_hoover.kind_morse.eloquent_chandrasekhar import eloquent_chandrasekhar as eloquent_chandrasekhar1
+from loving_visvesvaraya.confident_hoover.kind_morse.priceless_elion import priceless_elion as priceless_elion1
+from loving_visvesvaraya.confident_hoover.kind_morse.sleepy_dijkstra import sleepy_dijkstra as sleepy_dijkstra1
+from loving_visvesvaraya.confident_hoover.kind_morse.upbeat_wing import upbeat_wing as upbeat_wing1
+from loving_visvesvaraya.confident_hoover.kind_morse.clever_yonath import clever_yonath as clever_yonath1

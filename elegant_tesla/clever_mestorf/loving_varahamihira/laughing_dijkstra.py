@@ -1,0 +1,2 @@
+from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import loving_varahamihira as loving_varahamihira1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import gracious_rosalind as gracious_rosalind1

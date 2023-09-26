@@ -1,0 +1,6 @@
+from loving_visvesvaraya.upbeat_nightingale import angry_williams as angry_williams1
+from peaceful_bohr.jovial_bell import festive_golick as festive_golick1
+from loving_visvesvaraya.upbeat_nightingale import hungry_torvalds as hungry_torvalds1
+from loving_visvesvaraya.upbeat_nightingale import competent_yonath as competent_yonath1
+from loving_visvesvaraya.upbeat_nightingale import jovial_agnesi as jovial_agnesi1
+from loving_visvesvaraya.upbeat_nightingale import epic_khorana as epic_khorana1

@@ -1,0 +1,7 @@
+from elegant_tesla.cranky_goldwasser import boring_edison as boring_edison1
+from elegant_tesla.zen_pike import competent_jennings as competent_jennings1
+from elegant_tesla.boring_dijkstra import pedantic_payne as pedantic_payne1
+from elegant_tesla.cranky_goldwasser import agitated_williams as agitated_williams1
+from elegant_tesla.cranky_goldwasser import practical_kalam as practical_kalam1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
+import sad_thompson as sad_thompson1

@@ -1,0 +1,8 @@
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from elegant_tesla.ecstatic_agnesi import cocky_bohr as cocky_bohr1
+from peaceful_bohr.admiring_carson import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.zen_pike.optimistic_hawking import pedantic_clarke as pedantic_clarke1
+from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import peaceful_goldberg as peaceful_goldberg1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+from peaceful_bohr import priceless_carson as priceless_carson1

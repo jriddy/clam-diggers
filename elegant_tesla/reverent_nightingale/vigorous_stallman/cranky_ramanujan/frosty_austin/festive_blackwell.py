@@ -1,0 +1,14 @@
+from elegant_tesla.zen_pike.cocky_goldstine import cranky_ramanujan as cranky_ramanujan1
+from elegant_tesla.heuristic_babbage import amazing_curran as amazing_curran1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.frosty_austin import goofy_bose as goofy_bose1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.frosty_austin import cranky_lamport as cranky_lamport1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.zen_pike import heuristic_babbage as heuristic_babbage1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan.festive_mirzakhani import festive_blackwell as festive_blackwell1
+from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import festive_blackwell as festive_blackwell2
+from elegant_tesla.reverent_nightingale.pensive_montalcini import festive_blackwell as festive_blackwell3
+from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import lucid_kalam as lucid_kalam1
+from elegant_tesla.zen_pike import hopeful_ritchie as hopeful_ritchie1
+from elegant_tesla.reverent_nightingale.vigorous_stallman.cranky_ramanujan import zen_curie as zen_curie2

@@ -1,0 +1,4 @@
+from priceless_stonebraker.quizzical_hamilton.kind_volhard import fervent_davinci as fervent_davinci1
+import focused_liskov as focused_liskov1
+from priceless_stonebraker.quizzical_hamilton.kind_volhard import naughty_murdock as naughty_murdock1
+from priceless_stonebraker.quizzical_hamilton.happy_poitras import gracious_curie as gracious_curie1

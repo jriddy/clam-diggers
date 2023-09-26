@@ -1,0 +1,1 @@
+from elegant_tesla.cranky_goldwasser import boring_morse as boring_morse1

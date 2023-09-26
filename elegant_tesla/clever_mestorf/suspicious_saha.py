@@ -1,0 +1,11 @@
+from elegant_tesla.clever_mestorf import mystifying_blackwell as mystifying_blackwell1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.xenodochial_aryabhata import awesome_morse as awesome_morse1
+from elegant_tesla.zen_pike import blissful_bose as blissful_bose1
+from elegant_tesla.reverent_goldwasser.goofy_kepler import loving_varahamihira as loving_varahamihira1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+from elegant_tesla.clever_mestorf import goofy_bose as goofy_bose1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.mystifying_euclid import dazzling_mirzakhani as dazzling_mirzakhani1

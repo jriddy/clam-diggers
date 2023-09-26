@@ -1,0 +1,12 @@
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.reverent_nightingale import unruffled_franklin as unruffled_franklin1
+from elegant_tesla.reverent_nightingale import mystifying_brahmagupta as mystifying_brahmagupta1
+from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
+from elegant_tesla.zen_pike import kind_albattani as kind_albattani1
+from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import youthful_bell as youthful_bell1
+from stupefied_gates import jovial_benz as jovial_benz1
+from elegant_tesla.zen_pike.optimistic_hawking import hardcore_newton as hardcore_newton1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import infallible_aryabhata as infallible_aryabhata1
+from elegant_tesla.zen_pike import amazing_goldberg as amazing_goldberg1
+from elegant_tesla.reverent_goldwasser import eager_williams as eager_williams1
+from elegant_tesla.boring_boyd import pedantic_kilby as pedantic_kilby1

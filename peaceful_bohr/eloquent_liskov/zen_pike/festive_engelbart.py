@@ -1,0 +1,2 @@
+from elegant_tesla.zen_pike import trusting_lovelace as trusting_lovelace1
+from peaceful_bohr.eloquent_liskov import focused_mirzakhani as focused_mirzakhani1

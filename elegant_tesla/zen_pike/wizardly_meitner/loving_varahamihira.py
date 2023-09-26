@@ -1,0 +1,4 @@
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from elegant_tesla.zen_pike.wizardly_meitner import wizardly_meitner as wizardly_meitner1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

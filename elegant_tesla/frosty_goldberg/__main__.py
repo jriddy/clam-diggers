@@ -1,0 +1,4 @@
+from elegant_tesla.frosty_goldberg import adoring_sammet as adoring_sammet1
+from elegant_tesla.frosty_goldberg import zealous_bohr as zealous_bohr1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.frosty_goldberg import serene_lamport as serene_lamport1

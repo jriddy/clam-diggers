@@ -1,0 +1,6 @@
+from peaceful_bohr.cranky_mahavira import sleepy_euclid as sleepy_euclid1
+from peaceful_bohr.zen_pike import goofy_kepler as goofy_kepler1
+from peaceful_bohr.zen_pike import gracious_rosalind as gracious_rosalind1
+from elegant_tesla.zen_pike.optimistic_hawking import mystifying_mayer as mystifying_mayer1
+from peaceful_bohr.naughty_wright import focused_mirzakhani as focused_mirzakhani1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1

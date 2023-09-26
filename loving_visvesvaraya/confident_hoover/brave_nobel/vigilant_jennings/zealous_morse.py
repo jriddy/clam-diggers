@@ -1,0 +1,7 @@
+from loving_visvesvaraya.confident_hoover.boring_dijkstra import ecstatic_kepler as ecstatic_kepler1
+from loving_visvesvaraya.confident_hoover.boring_dijkstra import angry_varahamihira as angry_varahamihira1
+from loving_visvesvaraya.confident_hoover.boring_dijkstra import focused_kilby as focused_kilby1
+from loving_visvesvaraya.confident_hoover.determined_ptolemy import determined_curran as determined_curran1
+from loving_visvesvaraya.confident_hoover.boring_dijkstra import jovial_agnesi as jovial_agnesi1
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from loving_visvesvaraya.confident_hoover.boring_dijkstra import gallant_bartik as gallant_bartik1

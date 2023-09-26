@@ -1,0 +1,3 @@
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import nifty_brattain as nifty_brattain1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import sleepy_euclid as sleepy_euclid1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1

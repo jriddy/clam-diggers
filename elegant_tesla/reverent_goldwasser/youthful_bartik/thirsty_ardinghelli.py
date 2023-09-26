@@ -1,0 +1,7 @@
+from elegant_tesla.boring_dijkstra.optimistic_hawking.goofy_kepler import youthful_bartik as youthful_bartik1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.boring_dijkstra import awesome_mccarthy as awesome_mccarthy1
+from elegant_tesla.boring_boyd import distracted_pike as distracted_pike1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

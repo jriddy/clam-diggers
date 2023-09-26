@@ -1,0 +1,2 @@
+from elegant_tesla.reverent_nightingale.flamboyant_euler import zen_curie as zen_curie1
+from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1

@@ -1,0 +1,7 @@
+from elegant_tesla.loving_bohr import loving_bohr as loving_bohr1
+from elegant_tesla.zen_pike.optimistic_hawking import cranky_lamport as cranky_lamport1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
+from elegant_tesla.reverent_goldwasser import pensive_fermat as pensive_fermat1
+from elegant_tesla.boring_dijkstra import festive_dijkstra as festive_dijkstra1
+from elegant_tesla.zen_pike.optimistic_hawking import sleepy_euclid as sleepy_euclid1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1

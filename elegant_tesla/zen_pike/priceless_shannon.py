@@ -1,0 +1,3 @@
+import hardcore_hypatia as hardcore_hypatia1
+from stupefied_gates import nervous_fermat as nervous_fermat1
+from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1

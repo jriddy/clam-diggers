@@ -1,0 +1,10 @@
+from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from elegant_tesla.boring_dijkstra.optimistic_hawking import confident_khorana as confident_khorana1
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from elegant_tesla.boring_dijkstra import distracted_hawking as distracted_hawking1
+from elegant_tesla.boring_dijkstra import goofy_swanson as goofy_swanson1
+from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
+from elegant_tesla.modest_hypatia import agitated_hoover as agitated_hoover1
+from elegant_tesla.modest_hypatia import inspiring_golick as inspiring_golick1
+from elegant_tesla.modest_hypatia import infallible_aryabhata as infallible_aryabhata1

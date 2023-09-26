@@ -1,0 +1,11 @@
+from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import sad_edison as sad_edison1
+from elegant_tesla.nostalgic_wozniak.cranky_goldwasser import serene_borg as serene_borg1
+import hopeful_northcutt as hopeful_northcutt1
+from peaceful_bohr.admiring_carson import zen_curie as zen_curie2
+from elegant_tesla.zen_pike import trusting_panini as trusting_panini1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
+import vigorous_thompson as vigorous_thompson1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import mystifying_goldwasser as mystifying_goldwasser1

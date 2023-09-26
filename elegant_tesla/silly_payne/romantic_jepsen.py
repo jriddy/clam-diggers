@@ -1,0 +1,4 @@
+from elegant_tesla.boring_dijkstra.optimistic_hawking import practical_turing as practical_turing1
+from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1
+from elegant_tesla.zen_pike.optimistic_hawking.goofy_kepler import optimistic_minsky as optimistic_minsky1
+from elegant_tesla.boring_dijkstra import reverent_swartz as reverent_swartz1

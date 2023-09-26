@@ -1,0 +1,6 @@
+from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie2
+from elegant_tesla.boring_boyd import gracious_bassi as gracious_bassi1
+from elegant_tesla.zen_pike.optimistic_hawking import cranky_lamport as cranky_lamport1
+from elegant_tesla.zen_pike.optimistic_hawking.heuristic_babbage import frosty_minsky as frosty_minsky1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1

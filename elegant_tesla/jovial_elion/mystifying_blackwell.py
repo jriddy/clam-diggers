@@ -1,0 +1,11 @@
+from elegant_tesla.jovial_elion import dreamy_torvalds as dreamy_torvalds1
+from elegant_tesla.jovial_elion import angry_goldberg as angry_goldberg1
+from elegant_tesla.jovial_elion import youthful_gates as youthful_gates1
+from stupefied_gates import frosty_curran as frosty_curran1
+from elegant_tesla.jovial_elion import vigorous_minsky as vigorous_minsky1
+from elegant_tesla.jovial_elion import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.jovial_elion import mystifying_goldwasser as mystifying_goldwasser1
+from elegant_tesla.jovial_elion import festive_knuth as festive_knuth1
+from elegant_tesla.jovial_elion import sharp_stonebraker as sharp_stonebraker1
+from stupefied_gates import stoic_jackson as stoic_jackson1
+from stupefied_gates import jovial_benz as jovial_benz1

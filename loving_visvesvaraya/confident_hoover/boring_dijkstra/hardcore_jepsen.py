@@ -1,0 +1,3 @@
+from elegant_tesla.reverent_goldwasser.eloquent_borg import eloquent_borg as eloquent_borg1
+from loving_visvesvaraya.confident_hoover.boring_dijkstra import focused_kilby as focused_kilby1
+from loving_visvesvaraya.confident_hoover.boring_dijkstra import mystifying_goodall as mystifying_goodall1

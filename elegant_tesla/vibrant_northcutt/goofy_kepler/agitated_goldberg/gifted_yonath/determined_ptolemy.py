@@ -1,0 +1,5 @@
+from elegant_tesla.boring_dijkstra.awesome_morse.vibrant_northcutt import determined_ptolemy as determined_ptolemy1
+from elegant_tesla.boring_dijkstra.optimistic_hawking.heuristic_babbage import happy_poincare as happy_poincare1
+from elegant_tesla.boring_boyd import hungry_johnson as hungry_johnson1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import epic_hamilton as epic_hamilton1
+from elegant_tesla.boring_dijkstra.agitated_goldberg import determined_ptolemy as determined_ptolemy2

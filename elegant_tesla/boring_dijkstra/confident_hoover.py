@@ -1,0 +1,2 @@
+from stupefied_gates import quirky_sammet as quirky_sammet1
+from stupefied_gates import nervous_fermat as nervous_fermat1

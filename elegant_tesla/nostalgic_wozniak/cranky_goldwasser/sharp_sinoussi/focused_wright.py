@@ -1,0 +1,6 @@
+from stupefied_gates import frosty_curran as frosty_curran1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import sad_edison as sad_edison1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra import unruffled_knuth as unruffled_knuth1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hungry_hamilton as hungry_hamilton1
+from elegant_tesla.nostalgic_wozniak.boring_dijkstra.mystifying_volhard import focused_wright as focused_wright1
+from elegant_tesla.youthful_booth import stupefied_montalcini as stupefied_montalcini1

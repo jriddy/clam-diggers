@@ -1,0 +1,6 @@
+import hungry_neumann as hungry_neumann1
+from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import sleepy_feynman as sleepy_feynman1
+from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import hungry_fermi as hungry_fermi1
+from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import unruffled_hoover as unruffled_hoover1
+from elegant_tesla.nostalgic_wozniak.cranky_goldwasser.confident_hoover import boring_dijkstra as boring_dijkstra1

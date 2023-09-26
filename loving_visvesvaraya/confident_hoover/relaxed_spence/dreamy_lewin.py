@@ -1,0 +1,6 @@
+from loving_visvesvaraya.confident_hoover.relaxed_spence import nostalgic_ardinghelli as nostalgic_ardinghelli1
+from loving_visvesvaraya.confident_hoover.boring_dijkstra import focused_kilby as focused_kilby1
+import cocky_williams as cocky_williams1
+from loving_visvesvaraya.confident_hoover.relaxed_spence import zen_curie as zen_curie1
+from peaceful_bohr.jovial_bell import stupefied_liskov as stupefied_liskov1
+from stupefied_gates import nervous_fermat as nervous_fermat1

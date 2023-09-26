@@ -1,0 +1,7 @@
+from elegant_tesla.zen_pike import thirsty_knuth as thirsty_knuth1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.zen_pike import festive_khorana as festive_khorana1
+from elegant_tesla.zen_pike import awesome_brahmagupta as awesome_brahmagupta1
+from stupefied_gates import nervous_fermat as nervous_fermat1
+import gracious_kare as gracious_kare1
+from elegant_tesla.boring_boyd import nervous_ardinghelli as nervous_ardinghelli1

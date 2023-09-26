@@ -1,0 +1,23 @@
+from elegant_tesla.boring_dijkstra import zen_curie as zen_curie1
+from elegant_tesla.youthful_booth import youthful_booth as youthful_booth1
+from elegant_tesla.boring_dijkstra import zen_pike as zen_pike1
+from elegant_tesla.frosty_goldberg import hopeful_goodall as hopeful_goodall1
+from elegant_tesla.zen_pike import awesome_brahmagupta as awesome_brahmagupta1
+from elegant_tesla.boring_boyd import zen_curie as zen_curie2
+from elegant_tesla.zen_pike.optimistic_hawking import stupefied_kirch as stupefied_kirch1
+from elegant_tesla.zen_pike.optimistic_hawking import frosty_goldberg as frosty_goldberg1
+from elegant_tesla.youthful_booth import awesome_aryabhata as awesome_aryabhata1
+from elegant_tesla.zen_pike.optimistic_hawking.laughing_feynman import hopeful_feynman as hopeful_feynman1
+from elegant_tesla.boring_dijkstra import trusting_ritchie as trusting_ritchie1
+from elegant_tesla.boring_boyd import blissful_mahavira as blissful_mahavira1
+from elegant_tesla.zen_pike import confident_hermann as confident_hermann1
+from elegant_tesla.zen_pike.optimistic_hawking import distracted_goodall as distracted_goodall1
+from elegant_tesla.frosty_goldberg import musing_raman as musing_raman1
+from elegant_tesla.zen_pike.ecstatic_wescoff import pedantic_leakey as pedantic_leakey1
+from elegant_tesla.youthful_booth import boring_dijkstra as boring_dijkstra1
+from elegant_tesla.zen_pike import festive_khorana as festive_khorana1
+from elegant_tesla.boring_dijkstra import festive_hodgkin as festive_hodgkin1
+from elegant_tesla.zen_pike import hardcore_stonebraker as hardcore_stonebraker1
+from elegant_tesla.boring_boyd import zen_pike as zen_pike2
+from elegant_tesla.frosty_goldberg import relaxed_mccarthy as relaxed_mccarthy1
+import sad_thompson as sad_thompson1
